@@ -1,0 +1,15 @@
+# Render Blueprint: site estático, sem build. Cada push na branch main atualiza o site.
+services:
+  - type: web
+    name: layout-ambar
+    runtime: static
+    buildCommand: echo "Site estático, sem etapa de build"
+    staticPublishPath: .
+    headers:
+      # Os dados publicados mudam a cada "Publicar": não deixar o navegador guardar cópia antiga
+      - path: /dados/*
+        name: Cache-Control
+        value: no-cache
+      - path: /index.html
+        name: Cache-Control
+        value: no-cache

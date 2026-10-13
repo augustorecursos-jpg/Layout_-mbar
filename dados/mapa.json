@@ -1,0 +1,1170 @@
+{
+ "app": "mapa-assentos-ambar",
+ "version": 2,
+ "publishedAt": "2026-10-13T17:48:07.171Z",
+ "state": {
+  "version": 2,
+  "areas": {
+   "rh": {
+    "label": "RH / Adm. Pessoal",
+    "color": "#7c3aed",
+    "group": "b6",
+    "kw": [
+     "rh",
+     "recursos humanos",
+     "adm de pessoal",
+     "adm pessoal",
+     "departamento pessoal"
+    ]
+   },
+   "suprimentos": {
+    "label": "Suprimentos",
+    "color": "#ea580c",
+    "group": "b6",
+    "kw": [
+     "suprimento",
+     "compras"
+    ]
+   },
+   "admin": {
+    "label": "Facilities",
+    "color": "#2563eb",
+    "group": "b6",
+    "kw": [
+     "facilities",
+     "administrativo",
+     "servicos gerais"
+    ]
+   },
+   "comex": {
+    "label": "Comex",
+    "color": "#16a34a",
+    "group": "b6",
+    "kw": [
+     "comex",
+     "comercio exterior"
+    ]
+   },
+   "contabilidade": {
+    "label": "Contabilidade",
+    "color": "#0d9488",
+    "group": "b6",
+    "kw": [
+     "contab"
+    ]
+   },
+   "fiscal": {
+    "label": "Fiscal",
+    "color": "#dc2626",
+    "group": "b6",
+    "kw": [
+     "fiscal",
+     "tribut"
+    ]
+   },
+   "controladoria": {
+    "label": "Controladoria",
+    "color": "#ca8a04",
+    "group": "b6",
+    "kw": [
+     "controladoria"
+    ]
+   },
+   "financeiro": {
+    "label": "Financeiro",
+    "color": "#4f46e5",
+    "group": "b6",
+    "kw": [
+     "financeiro",
+     "tesouraria"
+    ]
+   },
+   "renovaveis": {
+    "label": "Renováveis",
+    "color": "#65a30d",
+    "group": "b6",
+    "kw": [
+     "renovave"
+    ]
+   },
+   "comercializadora": {
+    "label": "Comercializadora",
+    "color": "#c026d3",
+    "group": "b6",
+    "kw": [
+     "comercializadora",
+     "trading"
+    ]
+   },
+   "operacoes": {
+    "label": "Operações",
+    "color": "#0891b2",
+    "group": "b6",
+    "kw": [
+     "operac"
+    ]
+   },
+   "ti": {
+    "label": "T.I.",
+    "color": "#475569",
+    "group": "b6",
+    "kw": [
+     "ti",
+     "t.i",
+     "t.i.",
+     "tecnologia",
+     "informatica"
+    ]
+   },
+   "fabio": {
+    "label": "Fabio (Industrial)",
+    "color": "#ea580c",
+    "group": "mz",
+    "kw": [
+     "fabio",
+     "industrial"
+    ]
+   },
+   "helvio": {
+    "label": "Helvio (Assuntos Regulatórios)",
+    "color": "#2563eb",
+    "group": "mz",
+    "kw": [
+     "helvio",
+     "regulat"
+    ]
+   },
+   "alexandre": {
+    "label": "Alexandre (Novos Negócios II)",
+    "color": "#84cc16",
+    "group": "mz",
+    "kw": [
+     "alexandre",
+     "novos negocios ii",
+     "novos negocios 2"
+    ]
+   },
+   "ronan": {
+    "label": "Ronan (Novos Negócios)",
+    "color": "#eab308",
+    "group": "mz",
+    "kw": [
+     "ronan",
+     "novos negocios"
+    ]
+   },
+   "joao": {
+    "label": "João (Jurídico)",
+    "color": "#0d9488",
+    "group": "mz",
+    "kw": [
+     "joao",
+     "juridico"
+    ]
+   },
+   "oreste": {
+    "label": "Oreste (Comercial)",
+    "color": "#9333ea",
+    "group": "mz",
+    "kw": [
+     "oreste",
+     "comercial"
+    ]
+   },
+   "marcelo": {
+    "label": "Marcelo (Adm. Financeiro)",
+    "color": "#334155",
+    "group": "mz",
+    "kw": [
+     "marcelo",
+     "adm financeiro",
+     "administrativo financeiro",
+     "adm fin",
+     "financeiro"
+    ]
+   },
+   "luiz": {
+    "label": "Luiz (Vice-Presidente)",
+    "color": "#dc2626",
+    "group": "mz",
+    "kw": [
+     "luiz",
+     "vice"
+    ]
+   },
+   "rubens": {
+    "label": "Rubens (RH)",
+    "color": "#db2777",
+    "group": "mz",
+    "kw": [
+     "rubens",
+     "rh",
+     "recursos humanos"
+    ]
+   },
+   "green-cargo": {
+    "label": "Green Cargo",
+    "color": "#15803d",
+    "group": "mz",
+    "kw": [
+     "green"
+    ]
+   },
+   "mgas": {
+    "label": "Mgás",
+    "color": "#b45309",
+    "group": "mz",
+    "kw": [
+     "mgas"
+    ]
+   },
+   "ti-dados": {
+    "label": "T.I | Dados",
+    "color": "#0891b2",
+    "group": "mz",
+    "kw": [
+     "ti",
+     "dados",
+     "tecnologia"
+    ]
+   },
+   "jose": {
+    "label": "José (Assessor)",
+    "color": "#78716c",
+    "group": "mz",
+    "kw": [
+     "jose",
+     "assessor"
+    ]
+   },
+   "sem-area": {
+    "label": "Sem área definida",
+    "color": "#94a3b8",
+    "group": "geral",
+    "kw": []
+   }
+  },
+  "people": {
+   "pmv6z55z76zgtp2t": {
+    "id": "pmv6z55z76zgtp2t",
+    "name": "Roberta",
+    "role": "",
+    "area": "rh"
+   },
+   "pmv6z55z7hburz0b": {
+    "id": "pmv6z55z7hburz0b",
+    "name": "Braga",
+    "role": "",
+    "area": "rh"
+   },
+   "pmv6z55z7qoa3n1b": {
+    "id": "pmv6z55z7qoa3n1b",
+    "name": "Vitória",
+    "role": "",
+    "area": "rh"
+   },
+   "pmv6z55z7bxeps1t": {
+    "id": "pmv6z55z7bxeps1t",
+    "name": "Vanessa",
+    "role": "",
+    "area": "rh"
+   },
+   "pmv6z55z77816o2t": {
+    "id": "pmv6z55z77816o2t",
+    "name": "Geisy",
+    "role": "",
+    "area": "rh"
+   },
+   "pmv6z55z7yj2tk3t": {
+    "id": "pmv6z55z7yj2tk3t",
+    "name": "Rogério",
+    "role": "",
+    "area": "rh"
+   },
+   "pmv6z55z7wtvge2b": {
+    "id": "pmv6z55z7wtvge2b",
+    "name": "Alcione",
+    "role": "",
+    "area": "rh"
+   },
+   "pmv6z55z7n33il3b": {
+    "id": "pmv6z55z7n33il3b",
+    "name": "Erika",
+    "role": "",
+    "area": "rh"
+   },
+   "pmv6z55z7pwn590t": {
+    "id": "pmv6z55z7pwn590t",
+    "name": "Rafael",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z7eezlx1t": {
+    "id": "pmv6z55z7eezlx1t",
+    "name": "Daniel",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z7wrpr92t": {
+    "id": "pmv6z55z7wrpr92t",
+    "name": "Mayara",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z7z2d4x3t": {
+    "id": "pmv6z55z7z2d4x3t",
+    "name": "Raquel",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z7kfpkw4t": {
+    "id": "pmv6z55z7kfpkw4t",
+    "name": "Alex",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z71i1mv0b": {
+    "id": "pmv6z55z71i1mv0b",
+    "name": "Bruno",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z7whdtm1b": {
+    "id": "pmv6z55z7whdtm1b",
+    "name": "Letícia",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z7g8kpm2b": {
+    "id": "pmv6z55z7g8kpm2b",
+    "name": "Janine",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z7ad0al3b": {
+    "id": "pmv6z55z7ad0al3b",
+    "name": "Rodrigo",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z751cao4b": {
+    "id": "pmv6z55z751cao4b",
+    "name": "Dionei",
+    "role": "",
+    "area": "suprimentos"
+   },
+   "pmv6z55z72ukuu1t": {
+    "id": "pmv6z55z72ukuu1t",
+    "name": "Bruno",
+    "role": "",
+    "area": "admin"
+   },
+   "pmv6z55z7i2xcm2t": {
+    "id": "pmv6z55z7i2xcm2t",
+    "name": "Brenda",
+    "role": "",
+    "area": "admin"
+   },
+   "pmv6z55z7lru2k3t": {
+    "id": "pmv6z55z7lru2k3t",
+    "name": "Liliane",
+    "role": "",
+    "area": "admin"
+   },
+   "pmv6z55z7ko8br0b": {
+    "id": "pmv6z55z7ko8br0b",
+    "name": "Mikaelly",
+    "role": "",
+    "area": "admin"
+   },
+   "pmv6z55z7x81dn1b": {
+    "id": "pmv6z55z7x81dn1b",
+    "name": "Laura",
+    "role": "",
+    "area": "admin"
+   },
+   "pmv6z55z7bian02b": {
+    "id": "pmv6z55z7bian02b",
+    "name": "Jefferson",
+    "role": "",
+    "area": "admin"
+   },
+   "pmv6z55z7b8u453b": {
+    "id": "pmv6z55z7b8u453b",
+    "name": "Victor",
+    "role": "",
+    "area": "admin"
+   },
+   "pmv6z55z7hpblv0t": {
+    "id": "pmv6z55z7hpblv0t",
+    "name": "Juliana",
+    "role": "",
+    "area": "comex"
+   },
+   "pmv6z55z7291bh1t": {
+    "id": "pmv6z55z7291bh1t",
+    "name": "Flávia",
+    "role": "",
+    "area": "comex"
+   },
+   "pmv6z55z7daqx80b": {
+    "id": "pmv6z55z7daqx80b",
+    "name": "Natália",
+    "role": "",
+    "area": "comex"
+   },
+   "pmv6z55z709aon1b": {
+    "id": "pmv6z55z709aon1b",
+    "name": "Larissa",
+    "role": "",
+    "area": "comex"
+   },
+   "pmv6z55z7l4i000t": {
+    "id": "pmv6z55z7l4i000t",
+    "name": "Leandro",
+    "role": "",
+    "area": "ti"
+   },
+   "pmv6z55z7i01q30b": {
+    "id": "pmv6z55z7i01q30b",
+    "name": "Douglas",
+    "role": "",
+    "area": "ti"
+   },
+   "pmv6z55z7imb5b1b": {
+    "id": "pmv6z55z7imb5b1b",
+    "name": "Luciana",
+    "role": "",
+    "area": "ti"
+   },
+   "pmv6z55z7qb0gm0b": {
+    "id": "pmv6z55z7qb0gm0b",
+    "name": "Dayane",
+    "role": "",
+    "area": "controladoria"
+   },
+   "pmv6z55z73fo301b": {
+    "id": "pmv6z55z73fo301b",
+    "name": "João",
+    "role": "",
+    "area": "controladoria"
+   },
+   "pmv6z55z7xssma4b": {
+    "id": "pmv6z55z7xssma4b",
+    "name": "João",
+    "role": "",
+    "area": "fiscal"
+   },
+   "pmv6z55z7xilux0t": {
+    "id": "pmv6z55z7xilux0t",
+    "name": "Victor",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z7u2jt51t": {
+    "id": "pmv6z55z7u2jt51t",
+    "name": "Wilson",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z717t2o2t": {
+    "id": "pmv6z55z717t2o2t",
+    "name": "Gustavo",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z77pnat3t": {
+    "id": "pmv6z55z77pnat3t",
+    "name": "Cesar",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z7s84624t": {
+    "id": "pmv6z55z7s84624t",
+    "name": "Vitor",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z72hcoe5t": {
+    "id": "pmv6z55z72hcoe5t",
+    "name": "João",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z74hykh0b": {
+    "id": "pmv6z55z74hykh0b",
+    "name": "Felipe",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z7k8fta1b": {
+    "id": "pmv6z55z7k8fta1b",
+    "name": "Maria Clara | Erika",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z7hr4rm2b": {
+    "id": "pmv6z55z7hr4rm2b",
+    "name": "Monica",
+    "role": "",
+    "area": "renovaveis"
+   },
+   "pmv6z55z7x0oej3b": {
+    "id": "pmv6z55z7x0oej3b",
+    "name": "Maria Izabel",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z7yycmg4b": {
+    "id": "pmv6z55z7yycmg4b",
+    "name": "Isabele",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z7vqeg95b": {
+    "id": "pmv6z55z7vqeg95b",
+    "name": "Yan",
+    "role": "",
+    "area": "financeiro"
+   },
+   "pmv6z55z7h54640t": {
+    "id": "pmv6z55z7h54640t",
+    "name": "Honda",
+    "role": "",
+    "area": "operacoes"
+   },
+   "pmv6z55z7bka8u1t": {
+    "id": "pmv6z55z7bka8u1t",
+    "name": "Rodrigo",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z7cmwq82t": {
+    "id": "pmv6z55z7cmwq82t",
+    "name": "Maria",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z75x3733t": {
+    "id": "pmv6z55z75x3733t",
+    "name": "João",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z7q44n64t": {
+    "id": "pmv6z55z7q44n64t",
+    "name": "Elvis",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z70jd275t": {
+    "id": "pmv6z55z70jd275t",
+    "name": "Lucas",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z7b3ln30b": {
+    "id": "pmv6z55z7b3ln30b",
+    "name": "Juliano",
+    "role": "",
+    "area": "operacoes"
+   },
+   "pmv6z55z7kujr21b": {
+    "id": "pmv6z55z7kujr21b",
+    "name": "André",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z7339me2b": {
+    "id": "pmv6z55z7339me2b",
+    "name": "Felipe",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z72emhq3b": {
+    "id": "pmv6z55z72emhq3b",
+    "name": "Steyner",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z784sif4b": {
+    "id": "pmv6z55z784sif4b",
+    "name": "Dylan",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z77llyk5b": {
+    "id": "pmv6z55z77llyk5b",
+    "name": "Guilherme Bordim",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z7jxj7c0t": {
+    "id": "pmv6z55z7jxj7c0t",
+    "name": "Gaeta",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z7moi6x1t": {
+    "id": "pmv6z55z7moi6x1t",
+    "name": "Grizy",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z7pik8l2t": {
+    "id": "pmv6z55z7pik8l2t",
+    "name": "Guilherme",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z716y6s3t": {
+    "id": "pmv6z55z716y6s3t",
+    "name": "Pedro",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z75w1rl1b": {
+    "id": "pmv6z55z75w1rl1b",
+    "name": "Arthur",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv6z55z790koi2b": {
+    "id": "pmv6z55z790koi2b",
+    "name": "Vinícius",
+    "role": "",
+    "area": "comercializadora"
+   }
+  },
+  "assign": {
+   "b6-terreo-rh-t2": "pmv6z55z76zgtp2t",
+   "b6-terreo-rh-b0": "pmv6z55z7hburz0b",
+   "b6-terreo-rh-b1": "pmv6z55z7qoa3n1b",
+   "b6-terreo-dp-t1": "pmv6z55z7bxeps1t",
+   "b6-terreo-dp-t2": "pmv6z55z77816o2t",
+   "b6-terreo-dp-t3": "pmv6z55z7yj2tk3t",
+   "b6-terreo-dp-b2": "pmv6z55z7wtvge2b",
+   "b6-terreo-dp-b3": "pmv6z55z7n33il3b",
+   "b6-andar1-sup-t0": "pmv6z55z7pwn590t",
+   "b6-andar1-sup-t1": "pmv6z55z7eezlx1t",
+   "b6-andar1-sup-t2": "pmv6z55z7wrpr92t",
+   "b6-andar1-sup-t3": "pmv6z55z7z2d4x3t",
+   "b6-andar1-sup-t4": "pmv6z55z7kfpkw4t",
+   "b6-andar1-sup-b0": "pmv6z55z71i1mv0b",
+   "b6-andar1-sup-b1": "pmv6z55z7whdtm1b",
+   "b6-andar1-sup-b2": "pmv6z55z7g8kpm2b",
+   "b6-andar1-sup-b3": "pmv6z55z7ad0al3b",
+   "b6-andar1-sup-b4": "pmv6z55z751cao4b",
+   "b6-andar1-fac-t1": "pmv6z55z72ukuu1t",
+   "b6-andar1-fac-t2": "pmv6z55z7i2xcm2t",
+   "b6-andar1-fac-t3": "pmv6z55z7lru2k3t",
+   "b6-andar1-fac-b0": "pmv6z55z7ko8br0b",
+   "b6-andar1-fac-b1": "pmv6z55z7x81dn1b",
+   "b6-andar1-fac-b2": "pmv6z55z7bian02b",
+   "b6-andar1-fac-b3": "pmv6z55z7b8u453b",
+   "b6-andar1-comex-t0": "pmv6z55z7hpblv0t",
+   "b6-andar1-comex-t1": "pmv6z55z7291bh1t",
+   "b6-andar1-comex-b0": "pmv6z55z7daqx80b",
+   "b6-andar1-comex-b1": "pmv6z55z709aon1b",
+   "b6-andar2a-ti-t0": "pmv6z55z7l4i000t",
+   "b6-andar2a-ti-b0": "pmv6z55z7i01q30b",
+   "b6-andar2a-ti-b1": "pmv6z55z7imb5b1b",
+   "b6-andar2a-fisc-b0": "pmv6z55z7qb0gm0b",
+   "b6-andar2a-fisc-b1": "pmv6z55z73fo301b",
+   "b6-andar2a-fisc-b4": "pmv6z55z7xssma4b",
+   "b6-andar2a-fin-t0": "pmv6z55z7xilux0t",
+   "b6-andar2a-fin-t1": "pmv6z55z7u2jt51t",
+   "b6-andar2a-fin-t2": "pmv6z55z717t2o2t",
+   "b6-andar2a-fin-t3": "pmv6z55z77pnat3t",
+   "b6-andar2a-fin-t4": "pmv6z55z7s84624t",
+   "b6-andar2a-fin-t5": "pmv6z55z72hcoe5t",
+   "b6-andar2a-fin-b0": "pmv6z55z74hykh0b",
+   "b6-andar2a-fin-b1": "pmv6z55z7k8fta1b",
+   "b6-andar2a-fin-b2": "pmv6z55z7hr4rm2b",
+   "b6-andar2a-fin-b3": "pmv6z55z7x0oej3b",
+   "b6-andar2a-fin-b4": "pmv6z55z7yycmg4b",
+   "b6-andar2a-fin-b5": "pmv6z55z7vqeg95b",
+   "b6-andar2b-opcom-t0": "pmv6z55z7h54640t",
+   "b6-andar2b-opcom-t1": "pmv6z55z7bka8u1t",
+   "b6-andar2b-opcom-t2": "pmv6z55z7cmwq82t",
+   "b6-andar2b-opcom-t3": "pmv6z55z75x3733t",
+   "b6-andar2b-opcom-t4": "pmv6z55z7q44n64t",
+   "b6-andar2b-opcom-t5": "pmv6z55z70jd275t",
+   "b6-andar2b-opcom-b0": "pmv6z55z7b3ln30b",
+   "b6-andar2b-opcom-b1": "pmv6z55z7kujr21b",
+   "b6-andar2b-opcom-b2": "pmv6z55z7339me2b",
+   "b6-andar2b-opcom-b3": "pmv6z55z72emhq3b",
+   "b6-andar2b-opcom-b4": "pmv6z55z784sif4b",
+   "b6-andar2b-opcom-b5": "pmv6z55z77llyk5b",
+   "b6-andar2b-com-t0": "pmv6z55z7jxj7c0t",
+   "b6-andar2b-com-t1": "pmv6z55z7moi6x1t",
+   "b6-andar2b-com-t2": "pmv6z55z7pik8l2t",
+   "b6-andar2b-com-t3": "pmv6z55z716y6s3t",
+   "b6-andar2b-com-b1": "pmv6z55z75w1rl1b",
+   "b6-andar2b-com-b2": "pmv6z55z790koi2b"
+  },
+  "reserve": {
+   "b6-andar2b-com-b0": "Lucas"
+  },
+  "labels": {},
+  "layout": {
+   "b6-terreo": [
+    {
+     "type": "door",
+     "x": 40,
+     "y": 40,
+     "label": "Banheiro",
+     "icon": "wc",
+     "id": "door0"
+    },
+    {
+     "type": "door",
+     "x": 176,
+     "y": 40,
+     "label": "Banheiro",
+     "icon": "wc",
+     "id": "door1"
+    },
+    {
+     "type": "entrance",
+     "y": 150,
+     "len": 168,
+     "label": "Porta",
+     "id": "entrance2"
+    },
+    {
+     "type": "table",
+     "id": "rh",
+     "x": 40,
+     "y": 150,
+     "cols": 3,
+     "segments": [
+      {
+       "area": "rh",
+       "label": "Recursos Humanos"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "id": "dp",
+     "x": 364,
+     "y": 150,
+     "cols": 4,
+     "segments": [
+      {
+       "area": "rh",
+       "label": "Adm. de Pessoal"
+      }
+     ]
+    },
+    {
+     "type": "caption",
+     "text": "Bloco 6 · Térreo",
+     "id": "caption5"
+    }
+   ],
+   "b6-andar1": [
+    {
+     "type": "stair",
+     "x": 40,
+     "y": 0,
+     "w": 230,
+     "h": 120,
+     "id": "stair0"
+    },
+    {
+     "type": "door",
+     "x": 290,
+     "y": 40,
+     "label": "Porta",
+     "icon": "door",
+     "id": "door1"
+    },
+    {
+     "type": "door",
+     "x": 384,
+     "y": 40,
+     "label": "Banheiro",
+     "icon": "wc",
+     "id": "door2"
+    },
+    {
+     "type": "door",
+     "x": 520,
+     "y": 40,
+     "label": "Banheiro",
+     "icon": "wc",
+     "id": "door3"
+    },
+    {
+     "type": "table",
+     "id": "comex",
+     "x": 724,
+     "y": 40,
+     "cols": 2,
+     "segments": [
+      {
+       "area": "comex",
+       "label": "Comércio Exterior"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "id": "sup",
+     "x": 40,
+     "y": 268,
+     "cols": 5,
+     "segments": [
+      {
+       "area": "suprimentos",
+       "label": "Suprimentos"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "id": "fac",
+     "x": 544,
+     "y": 268,
+     "cols": 4,
+     "segments": [
+      {
+       "area": "admin",
+       "label": "Administrativo / Facilities"
+      }
+     ]
+    },
+    {
+     "type": "caption",
+     "text": "Bloco 6 · 1º Andar",
+     "id": "caption7"
+    }
+   ],
+   "b6-andar2a": [
+    {
+     "type": "stair",
+     "x": 40,
+     "y": 0,
+     "w": 230,
+     "h": 120,
+     "id": "stair0"
+    },
+    {
+     "type": "door",
+     "x": 290,
+     "y": 40,
+     "label": "Porta",
+     "icon": "door",
+     "id": "door1"
+    },
+    {
+     "type": "door",
+     "x": 384,
+     "y": 40,
+     "label": "Banheiro",
+     "icon": "wc",
+     "id": "door2"
+    },
+    {
+     "type": "table",
+     "id": "contab",
+     "x": 728,
+     "y": 40,
+     "cols": 7,
+     "segments": [
+      {
+       "area": "contabilidade",
+       "label": "Contabilidade"
+      }
+     ]
+    },
+    {
+     "type": "room",
+     "x": 40,
+     "y": 228,
+     "w": 214,
+     "h": 232,
+     "label": "Sala de T.I.",
+     "id": "room4"
+    },
+    {
+     "type": "table",
+     "id": "ti",
+     "x": 60,
+     "y": 268,
+     "cols": 2,
+     "segments": [
+      {
+       "area": "ti",
+       "label": "Reunião – T.I."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "id": "fisc",
+     "x": 314,
+     "y": 268,
+     "cols": 5,
+     "segments": [
+      {
+       "area": "fiscal",
+       "label": "Fiscal / Controladoria"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "id": "fin",
+     "x": 818,
+     "y": 268,
+     "cols": 6,
+     "segments": [
+      {
+       "area": "financeiro",
+       "label": "Financeiro",
+       "cols": 4
+      },
+      {
+       "area": "renovaveis",
+       "label": "Renováveis",
+       "cols": 2
+      }
+     ]
+    },
+    {
+     "type": "caption",
+     "text": "Bloco 6 · 2º Andar · Parte 1",
+     "id": "caption8"
+    }
+   ],
+   "b6-andar2b": [
+    {
+     "type": "door",
+     "x": 722,
+     "y": 30,
+     "label": "Banheiro",
+     "icon": "wc",
+     "id": "door0"
+    },
+    {
+     "type": "door",
+     "x": 858,
+     "y": 30,
+     "label": "Banheiro",
+     "icon": "wc",
+     "id": "door1"
+    },
+    {
+     "type": "wall",
+     "x": 0,
+     "y": 92,
+     "full": true,
+     "h": 3,
+     "dashed": true,
+     "id": "wall2"
+    },
+    {
+     "type": "note",
+     "x": 0,
+     "y": 116,
+     "full": true,
+     "text": "Mesas na mesma reta do Financeiro",
+     "id": "note3"
+    },
+    {
+     "type": "table",
+     "id": "opcom",
+     "x": 40,
+     "y": 172,
+     "cols": 6,
+     "segments": [
+      {
+       "area": "operacoes",
+       "label": "Operações",
+       "cols": 1
+      },
+      {
+       "area": "comercializadora",
+       "label": "Comercializadora",
+       "cols": 5
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "id": "com",
+     "x": 634,
+     "y": 172,
+     "cols": 4,
+     "segments": [
+      {
+       "area": "comercializadora",
+       "label": "Comercializadora"
+      }
+     ]
+    },
+    {
+     "type": "caption",
+     "text": "Bloco 6 · 2º Andar · Parte 2",
+     "id": "caption6"
+    }
+   ],
+   "mz-holding": [
+    {
+     "type": "director",
+     "id": "d1",
+     "n": 1,
+     "seatId": "mz-d1",
+     "x": 30,
+     "y": 30,
+     "w": 250,
+     "h": 146,
+     "facing": "top"
+    },
+    {
+     "type": "director",
+     "id": "d2",
+     "n": 2,
+     "seatId": "mz-d2",
+     "x": 320,
+     "y": 30,
+     "w": 250,
+     "h": 146,
+     "facing": "top"
+    },
+    {
+     "type": "director",
+     "id": "d3",
+     "n": 3,
+     "seatId": "mz-d3",
+     "x": 610,
+     "y": 30,
+     "w": 250,
+     "h": 146,
+     "facing": "top"
+    },
+    {
+     "type": "bench",
+     "id": "c1",
+     "n": 1,
+     "seatPrefix": "mz-c1",
+     "x": 30,
+     "y": 216,
+     "w": 250,
+     "pairs": 7,
+     "skip": []
+    },
+    {
+     "type": "bench",
+     "id": "c2",
+     "n": 2,
+     "seatPrefix": "mz-c2",
+     "x": 320,
+     "y": 216,
+     "w": 250,
+     "pairs": 7,
+     "skip": []
+    },
+    {
+     "type": "bench",
+     "id": "c3",
+     "n": 3,
+     "seatPrefix": "mz-c3",
+     "x": 610,
+     "y": 216,
+     "w": 250,
+     "pairs": 7,
+     "skip": []
+    },
+    {
+     "type": "bench",
+     "id": "c4",
+     "n": 4,
+     "seatPrefix": "mz-c4",
+     "x": 900,
+     "y": 216,
+     "w": 250,
+     "pairs": 7,
+     "skip": [
+      "p4-l"
+     ]
+    },
+    {
+     "type": "bench",
+     "id": "c5",
+     "n": 5,
+     "seatPrefix": "mz-c5",
+     "x": 1190,
+     "y": 216,
+     "w": 250,
+     "pairs": 7,
+     "skip": []
+    },
+    {
+     "type": "director",
+     "id": "d4",
+     "n": 4,
+     "seatId": "mz-d4",
+     "x": 30,
+     "y": 640,
+     "w": 250,
+     "h": 146,
+     "facing": "bottom"
+    },
+    {
+     "type": "director",
+     "id": "d5",
+     "n": 5,
+     "seatId": "mz-d5",
+     "x": 320,
+     "y": 640,
+     "w": 250,
+     "h": 146,
+     "facing": "bottom"
+    },
+    {
+     "type": "director",
+     "id": "d6",
+     "n": 6,
+     "seatId": "mz-d6",
+     "x": 610,
+     "y": 640,
+     "w": 250,
+     "h": 146,
+     "facing": "bottom"
+    },
+    {
+     "type": "director",
+     "id": "d7",
+     "n": 7,
+     "seatId": "mz-d7",
+     "x": 900,
+     "y": 640,
+     "w": 250,
+     "h": 146,
+     "facing": "bottom"
+    },
+    {
+     "type": "director",
+     "id": "d8",
+     "n": 8,
+     "seatId": "mz-d8",
+     "x": 1190,
+     "y": 640,
+     "w": 250,
+     "h": 146,
+     "facing": "bottom"
+    },
+    {
+     "type": "caption",
+     "text": "Proposta de layout · Holding Âmbar",
+     "id": "caption13"
+    }
+   ]
+  },
+  "lastBackup": null
+ }
+}
