@@ -392,7 +392,7 @@ body.viewer .person:hover{transform:none}
       <div class="results" id="results"></div>
     </div>
     <div class="tools">
-      <button class="btn primary edit-only" id="btnPublish"><span data-icon="cloud"></span><span class="hide-sm">Publicar</span><i class="pub-dot"></i></button>
+      <button class="btn primary edit-only" id="btnPublish"><span data-icon="cloud"></span><span class="hide-sm" id="pubLabel">Publicar</span><i class="pub-dot"></i></button>
       <button class="btn edit-only" id="btnEdit" title="Incluir, excluir e mover mesas"><span data-icon="layout"></span><span class="hide-sm">Editar planta</span></button>
       <button class="icon-btn edit-only" id="btnUndo" title="Desfazer (Ctrl+Z)" data-icon="undo"></button>
       <div class="menu edit-only">
@@ -839,9 +839,9 @@ function snapshot() { undoStack.push(JSON.stringify(state)); if (undoStack.lengt
 function undo() {
   if (!undoStack.length) return toast('Nada para desfazer');
   state = migrate(JSON.parse(undoStack.pop()));
-  save(); setDirty(true); render(); toast('Alteração desfeita');
+  save(); setDirty(true); render(); toast('Alteração desfeita'); scheduleAutoPublish();
 }
-function commit(msg) { if (!canEdit()) return render(); save(); setDirty(true); render(); if (msg) toast(msg, { label: 'Desfazer', fn: undo }); }
+function commit(msg) { if (!canEdit()) return render(); save(); setDirty(true); render(); if (msg) toast(msg, { label: 'Desfazer', fn: undo }); scheduleAutoPublish(); }
 
 const area = k => state.areas[k] || state.areas['sem-area'];
 const curFloor = () => FLOORS[ui.floor];
@@ -1102,8 +1102,10 @@ function renderSaveStatus() {
 }
 function renderPublish() {
   const b = $('#btnPublish'); if (!b) return;
-  b.classList.toggle('pending', isDirty());
-  b.title = isDirty() ? 'Há alterações não publicadas. Clique para atualizar o site.' : 'Site atualizado com a última versão';
+  b.classList.toggle('pending', isDirty() && !publishing);
+  const auto = autoPubOn() && pubCfg().token;
+  $('#pubLabel').textContent = publishing ? 'Publicando…' : isDirty() ? (auto && autoTimer ? 'Publicando em instantes' : 'Publicar') : (pubCfg().token ? 'Publicado' : 'Publicar');
+  b.title = isDirty() ? 'Há alterações que ainda não estão no site. Clique para publicar agora.' : 'O site já mostra a última versão';
 }
 function areaOptions(selected, prefer, withAll) {
   const order = [prefer, ...Object.keys(GROUPS).filter(g => g !== prefer)];
@@ -1780,10 +1782,24 @@ async function testToken(cfg) {
   if (d.permissions && !d.permissions.push) throw new Error('O token não tem permissão de escrita (Contents: Read and write).');
   return true;
 }
-async function publish() {
+let publishing = false, autoTimer = null;
+const AUTO_DELAY = 8000;
+const autoPubOn = () => pubCfg().auto !== false;
+function scheduleAutoPublish() {
+  if (!canEdit() || !pubCfg().token || !autoPubOn()) return;
+  clearTimeout(autoTimer);
+  autoTimer = setTimeout(() => { autoTimer = null; publish(true); }, AUTO_DELAY);
+  renderPublish();
+}
+async function publish(silent) {
   const cfg = pubCfg();
-  if (!cfg.token) return openPublishSettings(true);
-  const btn = $('#btnPublish'); btn.disabled = true; toast('Publicando…');
+  if (!cfg.token) return silent ? null : openPublishSettings(true);
+  clearTimeout(autoTimer); autoTimer = null;
+  if (publishing) { autoTimer = setTimeout(() => { autoTimer = null; publish(true); }, 3000); return; }
+  if (silent && !isDirty()) return renderPublish();
+  publishing = true; renderPublish();
+  const btn = $('#btnPublish'); btn.disabled = true; if (!silent) toast('Publicando…');
+  const stateAtSend = JSON.stringify(state);
   try {
     const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${cfg.path}`;
     let sha;
@@ -1795,13 +1811,17 @@ async function publish() {
     const data = { app: 'mapa-assentos-ambar', version: 2, publishedAt: now.toISOString(), state };
     const r = await fetch(url, { method: 'PUT', headers: ghHeaders(cfg.token), body: JSON.stringify({
       message: `Atualiza mapa de assentos (${now.toLocaleString('pt-BR')})`, content: b64utf8(JSON.stringify(data, null, 1)), branch: cfg.branch, ...(sha ? { sha } : {}) }) });
+    if (r.status === 403) throw new Error('O token não tem permissão para gravar no repositório. No GitHub, edite o token e deixe “Contents” como “Read and write” (e confirme que o repositório ' + cfg.repo + ' está selecionado).');
     if (!r.ok) { const e = await r.json().catch(() => ({})); throw new Error(e.message || ('GitHub respondeu ' + r.status)); }
-    publishedAt = now.toISOString(); setDirty(false); renderSaveStatus();
+    publishedAt = now.toISOString();
+    if (JSON.stringify(state) === stateAtSend) setDirty(false); else scheduleAutoPublish();
+    renderSaveStatus();
+    if (silent) { toast('Site atualizado · em até 1 minuto todos veem a nova versão'); return; }
     openDialog({ title: 'Publicado!', body: '<p>A nova versão foi enviada ao GitHub. O Render atualiza o site automaticamente em cerca de 1 a 2 minutos; depois disso, quem abrir o link já vê o mapa atualizado.</p>', actions: [{ label: 'Ok', kind: 'primary', onClick: closeDialog }] });
   } catch (err) {
     openDialog({ title: 'Não foi possível publicar', body: `<p>${esc(err.message)}</p><p class="muted-txt">Suas alterações continuam salvas neste navegador. Verifique a internet e o token em “Configurar publicação”.</p>`,
       actions: [{ label: 'Configurar publicação', onClick: () => openPublishSettings(false) }, { label: 'Ok', kind: 'primary', onClick: closeDialog }] });
-  } finally { btn.disabled = false; }
+  } finally { publishing = false; btn.disabled = false; renderPublish(); }
 }
 function openPublishSettings(thenPublish, loginOnly) {
   const cfg = pubCfg();
@@ -1813,6 +1833,7 @@ function openPublishSettings(thenPublish, loginOnly) {
       <li>Gere o token, copie e cole abaixo.</li>
     </ol>
     <label class="field"><span>Token do GitHub</span><input class="input" type="password" id="pubToken" value="${esc(cfg.token || '')}" placeholder="github_pat_…" autofocus autocomplete="off"></label>
+    <label class="check" style="margin:0 0 12px"><input type="checkbox" id="pubAuto" ${cfg.auto !== false ? 'checked' : ''}> Publicar automaticamente alguns segundos depois de cada alteração</label>
     <details ${loginOnly ? '' : 'open'}><summary class="muted-txt" style="cursor:pointer;margin-bottom:8px">Repositório</summary>
       <div class="row2"><label class="field"><span>Dono</span><input class="input" id="pubOwner" value="${esc(cfg.owner)}"></label>
       <label class="field"><span>Repositório</span><input class="input" id="pubRepo" value="${esc(cfg.repo)}"></label></div>
@@ -1822,7 +1843,7 @@ function openPublishSettings(thenPublish, loginOnly) {
   if (cfg.token) actions.push({ label: 'Sair do modo editor', kind: 'danger ghost', left: true, onClick: () => { lsSet('.pub', null); closeDialog(); if (!IS_FILE) location.reload(); else toast('Token removido'); } });
   actions.push({ label: 'Cancelar', onClick: closeDialog });
   actions.push({ label: loginOnly ? 'Entrar' : thenPublish ? 'Salvar e publicar' : 'Salvar', kind: 'primary', onClick: async b => {
-    const next = { owner: $('#pubOwner', b).value.trim(), repo: $('#pubRepo', b).value.trim(), branch: $('#pubBranch', b).value.trim() || 'main', token: $('#pubToken', b).value.trim() };
+    const next = { owner: $('#pubOwner', b).value.trim(), repo: $('#pubRepo', b).value.trim(), branch: $('#pubBranch', b).value.trim() || 'main', token: $('#pubToken', b).value.trim(), auto: $('#pubAuto', b).checked };
     if (!next.token) return $('#pubToken', b).focus();
     try { await testToken({ ...PUB_DEFAULT, ...next }); }
     catch (err) { return toast(err.message); }
@@ -1870,7 +1891,7 @@ const ACTIONS = {
   importExcel: () => $('#fileExcel').click(),
   importJson: () => $('#fileJson').click(),
   exportExcel, exportBackup,
-  publish: () => publish(),
+  publish: () => publish(false),
   pubSettings: () => openPublishSettings(false),
   login: () => openPublishSettings(false, true),
   printFloor: () => printFloors([ui.floor]),
@@ -1992,7 +2013,8 @@ function bindEvents() {
 
   // Outros
   $('#btnUndo').onclick = undo;
-  $('#btnPublish').onclick = publish;
+  $('#btnPublish').onclick = () => publish(false);
+  window.addEventListener('beforeunload', e => { if (canEdit() && isDirty() && pubCfg().token) { publish(true); e.preventDefault(); e.returnValue = ''; } });
   bindEditDrag();
   $('#placingCancel').onclick = stopPlacing;
   $('#btnSidebar').onclick = () => $('#sidebar').classList.toggle('open');
