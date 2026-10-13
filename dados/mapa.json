@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-13T17:48:07.171Z",
+ "publishedAt": "2026-10-13T19:54:47.673Z",
  "state": {
   "version": 2,
   "areas": {
@@ -249,49 +249,49 @@
     "id": "pmv6z55z76zgtp2t",
     "name": "Roberta",
     "role": "",
-    "area": "rh"
+    "area": "rubens"
    },
    "pmv6z55z7hburz0b": {
     "id": "pmv6z55z7hburz0b",
     "name": "Braga",
     "role": "",
-    "area": "rh"
+    "area": "rubens"
    },
    "pmv6z55z7qoa3n1b": {
     "id": "pmv6z55z7qoa3n1b",
     "name": "Vitória",
     "role": "",
-    "area": "rh"
+    "area": "rubens"
    },
    "pmv6z55z7bxeps1t": {
     "id": "pmv6z55z7bxeps1t",
     "name": "Vanessa",
     "role": "",
-    "area": "rh"
+    "area": "rubens"
    },
    "pmv6z55z77816o2t": {
     "id": "pmv6z55z77816o2t",
     "name": "Geisy",
     "role": "",
-    "area": "rh"
+    "area": "rubens"
    },
    "pmv6z55z7yj2tk3t": {
     "id": "pmv6z55z7yj2tk3t",
     "name": "Rogério",
     "role": "",
-    "area": "rh"
+    "area": "rubens"
    },
    "pmv6z55z7wtvge2b": {
     "id": "pmv6z55z7wtvge2b",
     "name": "Alcione",
     "role": "",
-    "area": "rh"
+    "area": "rubens"
    },
    "pmv6z55z7n33il3b": {
     "id": "pmv6z55z7n33il3b",
     "name": "Erika",
     "role": "",
-    "area": "rh"
+    "area": "rubens"
    },
    "pmv6z55z7pwn590t": {
     "id": "pmv6z55z7pwn590t",
@@ -423,24 +423,24 @@
     "id": "pmv6z55z7l4i000t",
     "name": "Leandro",
     "role": "",
-    "area": "ti"
+    "area": "ti-dados"
    },
    "pmv6z55z7i01q30b": {
     "id": "pmv6z55z7i01q30b",
     "name": "Douglas",
     "role": "",
-    "area": "ti"
+    "area": "ti-dados"
    },
    "pmv6z55z7imb5b1b": {
     "id": "pmv6z55z7imb5b1b",
     "name": "Luciana",
     "role": "",
-    "area": "ti"
+    "area": "ti-dados"
    },
    "pmv6z55z7qb0gm0b": {
     "id": "pmv6z55z7qb0gm0b",
-    "name": "Dayane",
-    "role": "",
+    "name": "Carla",
+    "role": "Analista Sr",
     "area": "controladoria"
    },
    "pmv6z55z73fo301b": {
@@ -448,12 +448,6 @@
     "name": "João",
     "role": "",
     "area": "controladoria"
-   },
-   "pmv6z55z7xssma4b": {
-    "id": "pmv6z55z7xssma4b",
-    "name": "João",
-    "role": "",
-    "area": "fiscal"
    },
    "pmv6z55z7xilux0t": {
     "id": "pmv6z55z7xilux0t",
@@ -634,6 +628,606 @@
     "name": "Vinícius",
     "role": "",
     "area": "comercializadora"
+   },
+   "pmv701w9ebsgxq0": {
+    "id": "pmv701w9ebsgxq0",
+    "name": "Renata Zolezi Dos Santos Meireles",
+    "role": "Coordenador de Sistema de Gestão",
+    "area": "fabio"
+   },
+   "pmv701w9eceu021": {
+    "id": "pmv701w9eceu021",
+    "name": "Fábio Tales",
+    "role": "Diretor de Operações",
+    "area": "fabio"
+   },
+   "pmv701w9fpqq4u2": {
+    "id": "pmv701w9fpqq4u2",
+    "name": "Nabila",
+    "role": "Técnica de Segurança",
+    "area": "fabio"
+   },
+   "pmv701w9fht3sd3": {
+    "id": "pmv701w9fht3sd3",
+    "name": "Rubens Bernardes",
+    "role": "Gerente Executivo de RH",
+    "area": "rubens"
+   },
+   "pmv701w9fosbai4": {
+    "id": "pmv701w9fosbai4",
+    "name": "Augusto Rodrigues",
+    "role": "Especialista de People Analytics",
+    "area": "rubens"
+   },
+   "pmv701w9fhppp95": {
+    "id": "pmv701w9fhppp95",
+    "name": "Patrícia Braga",
+    "role": "Especialista de Recursos Humanos",
+    "area": "rubens"
+   },
+   "pmv701w9frdm1f6": {
+    "id": "pmv701w9frdm1f6",
+    "name": "Joao Gabriel Vieira De Medeiros",
+    "role": "Diretor Jurídico",
+    "area": "joao"
+   },
+   "pmv701w9frnkl37": {
+    "id": "pmv701w9frnkl37",
+    "name": "Luciana Politano Lucena Carneiro",
+    "role": "Coordenador Juridico",
+    "area": "joao"
+   },
+   "pmv701w9frm7f69": {
+    "id": "pmv701w9frm7f69",
+    "name": "Carlos Eduardo Vallini Costa",
+    "role": "Advogado Jr",
+    "area": "joao"
+   },
+   "pmv701w9f1fwfr10": {
+    "id": "pmv701w9f1fwfr10",
+    "name": "Carolina Constante Simoes De Campos",
+    "role": "Advogado Pl",
+    "area": "joao"
+   },
+   "pmv701w9ffdpzi11": {
+    "id": "pmv701w9ffdpzi11",
+    "name": "Jasmine Almeida Diniz Araujo",
+    "role": "Assistente Administrativo",
+    "area": "joao"
+   },
+   "pmv701w9fwh13i12": {
+    "id": "pmv701w9fwh13i12",
+    "name": "Fabio Hiro Nakashigue",
+    "role": "Coordenador de Gestão de Dados",
+    "area": "ti-dados"
+   },
+   "pmv701w9fwia0913": {
+    "id": "pmv701w9fwia0913",
+    "name": "Mateus Holanda De Almeida",
+    "role": "Analista de BI Jr",
+    "area": "ti-dados"
+   },
+   "pmv701w9fglqp814": {
+    "id": "pmv701w9fglqp814",
+    "name": "Luiz Gustavo Sintra De Aguiar Santos",
+    "role": "Analista de TI Pl",
+    "area": "ti-dados"
+   },
+   "pmv701w9fc4cn315": {
+    "id": "pmv701w9fc4cn315",
+    "name": "Helvio Neves Guerra",
+    "role": "Diretor Regulatório",
+    "area": "helvio"
+   },
+   "pmv701w9fco2al16": {
+    "id": "pmv701w9fco2al16",
+    "name": "Marlene Nazare Ribeiro",
+    "role": "Coordenador de Consultas e Audiências Publicas",
+    "area": "helvio"
+   },
+   "pmv701w9f8s1lu17": {
+    "id": "pmv701w9f8s1lu17",
+    "name": "Gabryel Aparecido Da Silva Batista",
+    "role": "Analista de Assuntos Regulatorios Pl",
+    "area": "helvio"
+   },
+   "pmv701w9fmk83o18": {
+    "id": "pmv701w9fmk83o18",
+    "name": "Oreste Junior Trombetta",
+    "role": "Diretor Comercial",
+    "area": "oreste"
+   },
+   "pmv701w9fy7wew19": {
+    "id": "pmv701w9fy7wew19",
+    "name": "Marcelo Abreu",
+    "role": "Diretor de Administração e Financeiro",
+    "area": "marcelo"
+   },
+   "pmv701w9f18aq520": {
+    "id": "pmv701w9f18aq520",
+    "name": "Alexandre Rodrigues Tavares",
+    "role": "Diretor de Novos Negócios",
+    "area": "alexandre"
+   },
+   "pmv701w9f24ao521": {
+    "id": "pmv701w9f24ao521",
+    "name": "Ronan Nogueira Dias",
+    "role": "Diretor de Implantação e M&A de Usinas",
+    "area": "ronan"
+   },
+   "pmv701w9f193ad22": {
+    "id": "pmv701w9f193ad22",
+    "name": "Mgás 1",
+    "role": "",
+    "area": "mgas"
+   },
+   "pmv701w9f3k08523": {
+    "id": "pmv701w9f3k08523",
+    "name": "Mgás 2",
+    "role": "",
+    "area": "mgas"
+   },
+   "pmv701w9fxig0j24": {
+    "id": "pmv701w9fxig0j24",
+    "name": "Mgás 3",
+    "role": "",
+    "area": "mgas"
+   },
+   "pmv701w9f2zwi125": {
+    "id": "pmv701w9f2zwi125",
+    "name": "Jose Mauro Esteves Dos Santos",
+    "role": "Assessor da Presidência para Assuntos Nucleares",
+    "area": "jose"
+   },
+   "pmv701w9fxuieg26": {
+    "id": "pmv701w9fxuieg26",
+    "name": "Danilo Amaral Dantas",
+    "role": "Gerente de Inovação PDI e PEE",
+    "area": "alexandre"
+   },
+   "pmv701w9fg4ev927": {
+    "id": "pmv701w9fg4ev927",
+    "name": "Mario Gustavo Gattai Lourenco",
+    "role": "Gerente de PMO",
+    "area": "ronan"
+   },
+   "pmv701w9foboba28": {
+    "id": "pmv701w9foboba28",
+    "name": "Henrique Yoshihiro",
+    "role": "Gerente de LT e SE",
+    "area": "ronan"
+   },
+   "pmv701w9foefnw30": {
+    "id": "pmv701w9foefnw30",
+    "name": "Pedro Francisco Maciel Neto",
+    "role": "Gerente de Engenharia",
+    "area": "ronan"
+   },
+   "pmv701w9f8rnxe31": {
+    "id": "pmv701w9f8rnxe31",
+    "name": "Candelaria Orlando Falabella",
+    "role": "Coordenadora de Estratégia Inteligência de Mercado",
+    "area": "alexandre"
+   },
+   "pmv701w9fr27lz32": {
+    "id": "pmv701w9fr27lz32",
+    "name": "Julia",
+    "role": "Assistente de P&D",
+    "area": "alexandre"
+   },
+   "pmv701w9f4qgui33": {
+    "id": "pmv701w9f4qgui33",
+    "name": "Guilherme Melo",
+    "role": "Especialista de Novos Negócios",
+    "area": "alexandre"
+   },
+   "pmv701w9f2qn4334": {
+    "id": "pmv701w9f2qn4334",
+    "name": "Reservado - Vago",
+    "role": "Analista Sr.",
+    "area": "ronan"
+   },
+   "pmv701w9fl79ik35": {
+    "id": "pmv701w9fl79ik35",
+    "name": "Emprestada Mgás - Reservado 2",
+    "role": "",
+    "area": "ronan"
+   },
+   "pmv701w9fxfytu37": {
+    "id": "pmv701w9fxfytu37",
+    "name": "Angelo Rodrigues Costa",
+    "role": "Gerente Executivo de Contabilidade",
+    "area": "marcelo"
+   },
+   "pmv701w9fg8sax38": {
+    "id": "pmv701w9fg8sax38",
+    "name": "Rafael Alves De Moraes Melo",
+    "role": "Gerente Executivo de Controladoria",
+    "area": "marcelo"
+   },
+   "pmv701w9fkw70k39": {
+    "id": "pmv701w9fkw70k39",
+    "name": "Leonardo De Alencar Carvalho Santos",
+    "role": "Gerente Financeiro",
+    "area": "marcelo"
+   },
+   "pmv701w9f5m6xg40": {
+    "id": "pmv701w9f5m6xg40",
+    "name": "Adilson Massayuki Homma",
+    "role": "Gerente de Controladoria",
+    "area": "marcelo"
+   },
+   "pmv701w9fuqcch41": {
+    "id": "pmv701w9fuqcch41",
+    "name": "Marcelo Luis Dresch",
+    "role": "Gerente Executivo de Biogas",
+    "area": "luiz"
+   },
+   "pmv701w9f4bhlg42": {
+    "id": "pmv701w9f4bhlg42",
+    "name": "Emprestada CI J&F - Reservado",
+    "role": "Analista Sr.",
+    "area": "marcelo"
+   },
+   "pmv701w9fq1dd343": {
+    "id": "pmv701w9fq1dd343",
+    "name": "Rebeca",
+    "role": "Analista de Controladoria",
+    "area": "marcelo"
+   },
+   "pmv701w9f9pvem44": {
+    "id": "pmv701w9f9pvem44",
+    "name": "Henrique De Farias Souza",
+    "role": "Coordenador Financeiro",
+    "area": "marcelo"
+   },
+   "pmv701w9fwmuub45": {
+    "id": "pmv701w9fwmuub45",
+    "name": "Joedson Fonseca Carvalho",
+    "role": "Coordenador Financeiro",
+    "area": "marcelo"
+   },
+   "pmv701w9fssozr47": {
+    "id": "pmv701w9fssozr47",
+    "name": "Luiz Cintra",
+    "role": "Diretor Executivo de Expansão",
+    "area": "luiz"
+   },
+   "pmv701w9fhd0z848": {
+    "id": "pmv701w9fhd0z848",
+    "name": "Guilherme Augusto Duarte",
+    "role": "Gerente Executivo de Novos Negócios",
+    "area": "luiz"
+   },
+   "pmv701w9fqyae249": {
+    "id": "pmv701w9fqyae249",
+    "name": "Luan",
+    "role": "Analista de P&D Sr",
+    "area": "alexandre"
+   },
+   "pmv701w9f7we2150": {
+    "id": "pmv701w9f7we2150",
+    "name": "Gabriel Bizzo",
+    "role": "",
+    "area": "green-cargo"
+   },
+   "pmv701w9f4o79c51": {
+    "id": "pmv701w9f4o79c51",
+    "name": "Priscila",
+    "role": "",
+    "area": "green-cargo"
+   },
+   "pmv701w9fh7o8j52": {
+    "id": "pmv701w9fh7o8j52",
+    "name": "Leandro",
+    "role": "",
+    "area": "green-cargo"
+   },
+   "pmv701w9f1qoac53": {
+    "id": "pmv701w9f1qoac53",
+    "name": "Laura",
+    "role": "",
+    "area": "green-cargo"
+   },
+   "pmv701w9frf4yk54": {
+    "id": "pmv701w9frf4yk54",
+    "name": "Luis Abreu",
+    "role": "Analista Sr",
+    "area": "marcelo"
+   },
+   "pmv701w9ffxu4s55": {
+    "id": "pmv701w9ffxu4s55",
+    "name": "João Lucas",
+    "role": "Analista Pl",
+    "area": "marcelo"
+   },
+   "pmv701w9fsfjsa56": {
+    "id": "pmv701w9fsfjsa56",
+    "name": "Samantha",
+    "role": "Analista Pl",
+    "area": "marcelo"
+   },
+   "pmv701w9fdnpfz57": {
+    "id": "pmv701w9fdnpfz57",
+    "name": "Ricardo",
+    "role": "Coordenador",
+    "area": "marcelo"
+   },
+   "pmv701w9f6v27r58": {
+    "id": "pmv701w9f6v27r58",
+    "name": "Bruno Campos",
+    "role": "Coordenador",
+    "area": "marcelo"
+   },
+   "pmv701w9f1jkuf59": {
+    "id": "pmv701w9f1jkuf59",
+    "name": "Wellington",
+    "role": "Analista",
+    "area": "marcelo"
+   },
+   "pmv701w9f0vrlc60": {
+    "id": "pmv701w9f0vrlc60",
+    "name": "Vitor Athaide",
+    "role": "Analista",
+    "area": "marcelo"
+   },
+   "pmv701w9f0gcne61": {
+    "id": "pmv701w9f0gcne61",
+    "name": "Juliane Garcia",
+    "role": "Analista",
+    "area": "marcelo"
+   },
+   "pmv701w9fckq7762": {
+    "id": "pmv701w9fckq7762",
+    "name": "Genilson Santos",
+    "role": "Analista Sr",
+    "area": "marcelo"
+   },
+   "pmv701w9fuhgyh63": {
+    "id": "pmv701w9fuhgyh63",
+    "name": "Maria Clara Trindade",
+    "role": "Analista Pl",
+    "area": "marcelo"
+   },
+   "pmv701w9f8n8ze64": {
+    "id": "pmv701w9f8n8ze64",
+    "name": "Katiane Gomes",
+    "role": "Analista Pl",
+    "area": "marcelo"
+   },
+   "pmv701w9fh176u65": {
+    "id": "pmv701w9fh176u65",
+    "name": "Ana Luiza Magalhães",
+    "role": "Analista Pl",
+    "area": "marcelo"
+   },
+   "pmv701w9f0gz3j66": {
+    "id": "pmv701w9f0gz3j66",
+    "name": "Henrique Gelain",
+    "role": "Diretor Business",
+    "area": "green-cargo"
+   },
+   "pmv701w9f27nty67": {
+    "id": "pmv701w9f27nty67",
+    "name": "Eduardo Rosa",
+    "role": "Executivo Comercial",
+    "area": "green-cargo"
+   },
+   "pmv701w9fmqiyi68": {
+    "id": "pmv701w9fmqiyi68",
+    "name": "Rafael Stedler",
+    "role": "Gerente Administrativo",
+    "area": "marcelo"
+   },
+   "pmv701w9f1jazd69": {
+    "id": "pmv701w9f1jazd69",
+    "name": "Pedro Bastos",
+    "role": "Consultor de Engenharia",
+    "area": "ronan"
+   },
+   "pmv701w9fyprw270": {
+    "id": "pmv701w9fyprw270",
+    "name": "Ramires de Oliveira",
+    "role": "Gerente de Licenciamento",
+    "area": "ronan"
+   },
+   "pmv701w9f6qh8571": {
+    "id": "pmv701w9f6qh8571",
+    "name": "Ricardo Cardoso",
+    "role": "Coordenador",
+    "area": "fabio"
+   },
+   "pmv701w9fnufuu72": {
+    "id": "pmv701w9fnufuu72",
+    "name": "Denise Miranda",
+    "role": "Gerente de Assuntos Regulatórios",
+    "area": "helvio"
+   },
+   "pmv701w9fljoh873": {
+    "id": "pmv701w9fljoh873",
+    "name": "Igor Mendes",
+    "role": "Especialista de Dados",
+    "area": "ti-dados"
+   },
+   "pmv701w9fodzjy74": {
+    "id": "pmv701w9fodzjy74",
+    "name": "Caxito",
+    "role": "Gerente Exec. T.I",
+    "area": "ti-dados"
+   },
+   "pmv701w9feaup778": {
+    "id": "pmv701w9feaup778",
+    "name": "Reservado - Bruno",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv701w9f0i7in79": {
+    "id": "pmv701w9f0i7in79",
+    "name": "Reservado - Vago",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv701w9fh8rc080": {
+    "id": "pmv701w9fh8rc080",
+    "name": "Reservado - Vago",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv701w9fateur81": {
+    "id": "pmv701w9fateur81",
+    "name": "Kevin",
+    "role": "Analista",
+    "area": "marcelo"
+   },
+   "pmv703meryrb6q": {
+    "id": "pmv703meryrb6q",
+    "name": "Jessica Mendes",
+    "role": "Analista de CI Sr",
+    "area": "rubens"
+   },
+   "pmv704sdo03q61": {
+    "id": "pmv704sdo03q61",
+    "name": "Impressora",
+    "role": "",
+    "area": "rubens"
+   },
+   "pmv705aw1qeqwt": {
+    "id": "pmv705aw1qeqwt",
+    "name": "Reservado",
+    "role": "",
+    "area": "rubens"
+   },
+   "pmv7068osdsnvt": {
+    "id": "pmv7068osdsnvt",
+    "name": "Junior",
+    "role": "Coordenador de Folha",
+    "area": "rubens"
+   },
+   "pmv706hzwjd5xs": {
+    "id": "pmv706hzwjd5xs",
+    "name": "Consultor",
+    "role": "",
+    "area": "rubens"
+   },
+   "pmv706pye145g4": {
+    "id": "pmv706pye145g4",
+    "name": "Consultor",
+    "role": "",
+    "area": "rubens"
+   },
+   "pmv7072b0wcptu": {
+    "id": "pmv7072b0wcptu",
+    "name": "Jessica",
+    "role": "Analista Pl",
+    "area": "rubens"
+   },
+   "pmv7086du0s6l0": {
+    "id": "pmv7086du0s6l0",
+    "name": "Dmitri Yukio",
+    "role": "Assistente de T.I",
+    "area": "ti-dados"
+   },
+   "pmv70s8c5mq258": {
+    "id": "pmv70s8c5mq258",
+    "name": "Emprestada CI J&F - Reservado",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv71iottxq3bl": {
+    "id": "pmv71iottxq3bl",
+    "name": "Robson",
+    "role": "Analista Pl",
+    "area": "contabilidade"
+   },
+   "pmv71l2jthmtn0": {
+    "id": "pmv71l2jthmtn0",
+    "name": "Raquel",
+    "role": "Coordenadora",
+    "area": "contabilidade"
+   },
+   "pmv71ll0jmbtua": {
+    "id": "pmv71ll0jmbtua",
+    "name": "Keren",
+    "role": "Analista Sr",
+    "area": "contabilidade"
+   },
+   "pmv71m1tshlwi1": {
+    "id": "pmv71m1tshlwi1",
+    "name": "Luiz",
+    "role": "Analista Sr",
+    "area": "contabilidade"
+   },
+   "pmv71mchzcz1ns": {
+    "id": "pmv71mchzcz1ns",
+    "name": "Fabiano",
+    "role": "Analista Jr.",
+    "area": "contabilidade"
+   },
+   "pmv71mmizbv4be": {
+    "id": "pmv71mmizbv4be",
+    "name": "Beatriz",
+    "role": "Analista Jr.",
+    "area": "contabilidade"
+   },
+   "pmv71mztffzioa": {
+    "id": "pmv71mztffzioa",
+    "name": "Victor",
+    "role": "Analista Sr",
+    "area": "contabilidade"
+   },
+   "pmv71nagexsv19": {
+    "id": "pmv71nagexsv19",
+    "name": "Matheus",
+    "role": "Coordenador",
+    "area": "contabilidade"
+   },
+   "pmv71nkda5rwkf": {
+    "id": "pmv71nkda5rwkf",
+    "name": "André",
+    "role": "Analista Sr",
+    "area": "contabilidade"
+   },
+   "pmv71nvs5xoqro": {
+    "id": "pmv71nvs5xoqro",
+    "name": "Fabio",
+    "role": "Coordenador",
+    "area": "contabilidade"
+   },
+   "pmv71o3movp3pg": {
+    "id": "pmv71o3movp3pg",
+    "name": "Daniel",
+    "role": "Analista Sr",
+    "area": "contabilidade"
+   },
+   "pmv71oc4308r30": {
+    "id": "pmv71oc4308r30",
+    "name": "Jéssica",
+    "role": "Analista Pl",
+    "area": "contabilidade"
+   },
+   "pmv71r9c8rtmda": {
+    "id": "pmv71r9c8rtmda",
+    "name": "Camila Pimentel",
+    "role": "Analista Sr",
+    "area": "controladoria"
+   },
+   "pmv71uixbm5g5e": {
+    "id": "pmv71uixbm5g5e",
+    "name": "Diego",
+    "role": "Analista",
+    "area": "financeiro"
+   },
+   "pmv71z5o9rfivd": {
+    "id": "pmv71z5o9rfivd",
+    "name": "Daniel",
+    "role": "",
+    "area": "comercializadora"
+   },
+   "pmv72ocjjgcpen": {
+    "id": "pmv72ocjjgcpen",
+    "name": "Reservado",
+    "role": "Gerente de Almoxarifado",
+    "area": "admin"
    }
   },
   "assign": {
@@ -671,27 +1265,21 @@
    "b6-andar2a-ti-b1": "pmv6z55z7imb5b1b",
    "b6-andar2a-fisc-b0": "pmv6z55z7qb0gm0b",
    "b6-andar2a-fisc-b1": "pmv6z55z73fo301b",
-   "b6-andar2a-fisc-b4": "pmv6z55z7xssma4b",
    "b6-andar2a-fin-t0": "pmv6z55z7xilux0t",
    "b6-andar2a-fin-t1": "pmv6z55z7u2jt51t",
-   "b6-andar2a-fin-t2": "pmv6z55z717t2o2t",
    "b6-andar2a-fin-t3": "pmv6z55z77pnat3t",
-   "b6-andar2a-fin-t4": "pmv6z55z7s84624t",
-   "b6-andar2a-fin-t5": "pmv6z55z72hcoe5t",
    "b6-andar2a-fin-b0": "pmv6z55z74hykh0b",
-   "b6-andar2a-fin-b1": "pmv6z55z7k8fta1b",
+   "b6-andar2a-fin-b1": "pmv6z55z717t2o2t",
    "b6-andar2a-fin-b2": "pmv6z55z7hr4rm2b",
    "b6-andar2a-fin-b3": "pmv6z55z7x0oej3b",
-   "b6-andar2a-fin-b4": "pmv6z55z7yycmg4b",
+   "b6-andar2a-fin-b4": "pmv6z55z72hcoe5t",
    "b6-andar2a-fin-b5": "pmv6z55z7vqeg95b",
    "b6-andar2b-opcom-t0": "pmv6z55z7h54640t",
    "b6-andar2b-opcom-t1": "pmv6z55z7bka8u1t",
    "b6-andar2b-opcom-t2": "pmv6z55z7cmwq82t",
-   "b6-andar2b-opcom-t3": "pmv6z55z75x3733t",
    "b6-andar2b-opcom-t4": "pmv6z55z7q44n64t",
    "b6-andar2b-opcom-t5": "pmv6z55z70jd275t",
    "b6-andar2b-opcom-b0": "pmv6z55z7b3ln30b",
-   "b6-andar2b-opcom-b1": "pmv6z55z7kujr21b",
    "b6-andar2b-opcom-b2": "pmv6z55z7339me2b",
    "b6-andar2b-opcom-b3": "pmv6z55z72emhq3b",
    "b6-andar2b-opcom-b4": "pmv6z55z784sif4b",
@@ -700,12 +1288,112 @@
    "b6-andar2b-com-t1": "pmv6z55z7moi6x1t",
    "b6-andar2b-com-t2": "pmv6z55z7pik8l2t",
    "b6-andar2b-com-t3": "pmv6z55z716y6s3t",
-   "b6-andar2b-com-b1": "pmv6z55z75w1rl1b",
-   "b6-andar2b-com-b2": "pmv6z55z790koi2b"
+   "b6-andar2b-com-b2": "pmv6z55z790koi2b",
+   "mz-c1-p7-l": "pmv701w9ebsgxq0",
+   "mz-d4": "pmv701w9eceu021",
+   "mz-c1-p7-r": "pmv701w9fpqq4u2",
+   "mz-c1-p6-l": "pmv701w9fht3sd3",
+   "mz-c1-p5-l": "pmv701w9fosbai4",
+   "mz-c1-p4-l": "pmv701w9fhppp95",
+   "mz-d1": "pmv701w9frdm1f6",
+   "mz-c1-p1-l": "pmv701w9frnkl37",
+   "mz-c1-p1-r": "pmv701w9frm7f69",
+   "mz-c1-p2-r": "pmv701w9ffdpzi11",
+   "mz-c1-p4-r": "pmv701w9fwh13i12",
+   "mz-c1-p5-r": "pmv701w9fwia0913",
+   "mz-c5-p2-r": "pmv701w9fglqp814",
+   "mz-d5": "pmv701w9fc4cn315",
+   "mz-c2-p7-l": "pmv701w9fco2al16",
+   "mz-c2-p5-l": "pmv701w9f8s1lu17",
+   "mz-d2": "pmv701w9fmk83o18",
+   "mz-d3": "pmv701w9fy7wew19",
+   "mz-d6": "pmv701w9f18aq520",
+   "mz-d7": "pmv701w9f24ao521",
+   "mz-c5-p3-r": "pmv701w9f193ad22",
+   "mz-c5-p4-r": "pmv701w9f3k08523",
+   "mz-c5-p5-r": "pmv701w9fxig0j24",
+   "mz-c5-p1-l": "pmv701w9f2zwi125",
+   "mz-c3-p6-l": "pmv701w9fxuieg26",
+   "mz-c4-p6-r": "pmv701w9fg4ev927",
+   "mz-c4-p5-r": "pmv701w9foboba28",
+   "mz-c4-p7-r": "pmv701w9foefnw30",
+   "mz-c3-p7-l": "pmv701w9f8rnxe31",
+   "mz-c3-p7-r": "pmv701w9f4qgui33",
+   "mz-c4-p4-r": "pmv701w9f2qn4334",
+   "mz-c4-p5-l": "pmv701w9fl79ik35",
+   "mz-c3-p2-l": "pmv701w9fg8sax38",
+   "mz-c2-p2-l": "pmv701w9fkw70k39",
+   "mz-c3-p1-l": "pmv701w9f5m6xg40",
+   "mz-c5-p7-r": "pmv701w9fuqcch41",
+   "mz-c3-p5-l": "pmv701w9f4bhlg42",
+   "mz-c3-p4-l": "pmv701w9fq1dd343",
+   "mz-c2-p3-l": "pmv701w9f9pvem44",
+   "mz-c2-p1-l": "pmv701w9fwmuub45",
+   "mz-d8": "pmv701w9fssozr47",
+   "mz-c5-p6-r": "pmv701w9fhd0z848",
+   "mz-c5-p7-l": "pmv701w9f7we2150",
+   "mz-c5-p6-l": "pmv701w9f4o79c51",
+   "mz-c5-p5-l": "pmv701w9fh7o8j52",
+   "mz-c5-p4-l": "pmv701w9f1qoac53",
+   "mz-c4-p1-r": "pmv701w9f0i7in79",
+   "mz-c4-p2-r": "pmv701w9frf4yk54",
+   "mz-c3-p3-l": "pmv701w9fdnpfz57",
+   "mz-c3-p2-r": "pmv701w9f6v27r58",
+   "mz-c2-p1-r": "pmv701w9f1jkuf59",
+   "mz-c2-p2-r": "pmv701w9f0vrlc60",
+   "mz-c2-p4-l": "pmv701w9fh176u65",
+   "mz-c5-p2-l": "pmv701w9f0gz3j66",
+   "mz-c5-p3-l": "pmv701w9f27nty67",
+   "mz-c4-p1-l": "pmv701w9fmqiyi68",
+   "mz-c4-p6-l": "pmv701w9f1jazd69",
+   "mz-c4-p7-l": "pmv701w9fyprw270",
+   "mz-c1-p6-r": "pmv701w9f6qh8571",
+   "mz-c2-p6-l": "pmv701w9fnufuu72",
+   "mz-c1-p3-r": "pmv701w9fljoh873",
+   "mz-c5-p1-r": "pmv701w9fodzjy74",
+   "mz-c3-p1-r": "pmv701w9feaup778",
+   "mz-c3-p3-r": "pmv701w9fxfytu37",
+   "mz-c3-p4-r": "pmv701w9fh8rc080",
+   "mz-c1-p2-l": "pmv701w9f1fwfr10",
+   "mz-c1-p3-l": "pmv703meryrb6q",
+   "b6-terreo-rh-t0": "pmv704sdo03q61",
+   "b6-terreo-rh-t1": "pmv705aw1qeqwt",
+   "b6-terreo-dp-t0": "pmv7068osdsnvt",
+   "b6-terreo-dp-b1": "pmv706hzwjd5xs",
+   "b6-terreo-dp-b0": "pmv706pye145g4",
+   "b6-terreo-rh-b2": "pmv7072b0wcptu",
+   "b6-andar2a-ti-t1": "pmv7086du0s6l0",
+   "mz-c4-p2-l": "pmv701w9ffxu4s55",
+   "mz-c4-p3-l": "pmv701w9fateur81",
+   "mz-c4-p3-r": "pmv701w9fsfjsa56",
+   "mz-c3-p6-r": "pmv701w9fqyae249",
+   "mz-c3-p5-r": "pmv701w9fr27lz32",
+   "mz-c2-p3-r": "pmv701w9f0gcne61",
+   "mz-c2-p4-r": "pmv701w9fckq7762",
+   "mz-c2-p5-r": "pmv701w9fuhgyh63",
+   "mz-c2-p6-r": "pmv701w9f8n8ze64",
+   "mz-c2-p7-r": "pmv70s8c5mq258",
+   "b6-andar2a-contab-t0": "pmv71iottxq3bl",
+   "b6-andar2a-contab-t1": "pmv71l2jthmtn0",
+   "b6-andar2a-contab-t2": "pmv71ll0jmbtua",
+   "b6-andar2a-contab-t3": "pmv71m1tshlwi1",
+   "b6-andar2a-contab-t4": "pmv71mchzcz1ns",
+   "b6-andar2a-contab-t5": "pmv71mmizbv4be",
+   "b6-andar2a-contab-b0": "pmv71mztffzioa",
+   "b6-andar2a-contab-b1": "pmv71nagexsv19",
+   "b6-andar2a-contab-b2": "pmv71nkda5rwkf",
+   "b6-andar2a-contab-b3": "pmv71nvs5xoqro",
+   "b6-andar2a-contab-b4": "pmv71o3movp3pg",
+   "b6-andar2a-contab-b5": "pmv71oc4308r30",
+   "b6-andar2a-fisc-b2": "pmv71r9c8rtmda",
+   "b6-andar2a-fin-t2": "pmv71uixbm5g5e",
+   "b6-andar2a-fin-t5": "pmv6z55z7yycmg4b",
+   "b6-andar2b-com-b0": "pmv71z5o9rfivd",
+   "b6-andar2b-com-b3": "pmv6z55z75w1rl1b",
+   "b6-andar2b-com-b1": "pmv6z55z75x3733t",
+   "b6-andar1-fac-t0": "pmv72ocjjgcpen"
   },
-  "reserve": {
-   "b6-andar2b-com-b0": "Lucas"
-  },
+  "reserve": {},
   "labels": {},
   "layout": {
    "b6-terreo": [
@@ -861,8 +1549,8 @@
     },
     {
      "type": "door",
-     "x": 384,
-     "y": 40,
+     "x": 30,
+     "y": 120,
      "label": "Banheiro",
      "icon": "wc",
      "id": "door2"
@@ -870,15 +1558,17 @@
     {
      "type": "table",
      "id": "contab",
-     "x": 728,
+     "x": 820,
      "y": 40,
-     "cols": 7,
+     "cols": 6,
      "segments": [
       {
+       "label": "Contabilidade",
        "area": "contabilidade",
-       "label": "Contabilidade"
+       "cols": 6
       }
-     ]
+     ],
+     "sides": "tb"
     },
     {
      "type": "room",
@@ -938,6 +1628,14 @@
      "type": "caption",
      "text": "Bloco 6 · 2º Andar · Parte 1",
      "id": "caption8"
+    },
+    {
+     "type": "door",
+     "x": 140,
+     "y": 120,
+     "label": "Banheiro",
+     "icon": "wc",
+     "id": "imv73a0d9dpc"
     }
    ],
    "b6-andar2b": [
@@ -1165,6 +1863,7 @@
     }
    ]
   },
-  "lastBackup": null
+  "lastBackup": 1791919813947,
+  "updatedAt": 1791921067677
  }
 }
