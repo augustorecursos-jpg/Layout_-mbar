@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-14T16:16:36.443Z",
+ "publishedAt": "2026-10-14T16:16:54.826Z",
  "state": {
   "version": 2,
   "areas": {
@@ -811,7 +811,7 @@
    },
    "pmv701w9fr27lz32": {
     "id": "pmv701w9fr27lz32",
-    "name": "Julia",
+    "name": "Julia Garcia",
     "role": "Assistente de P&D",
     "area": "alexandre"
    },
@@ -1864,6 +1864,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1791994587771
+  "updatedAt": 1791994606187
  }
 }
