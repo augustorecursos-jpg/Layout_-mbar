@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-14T16:18:03.533Z",
+ "publishedAt": "2026-10-14T16:27:42.816Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1231,7 +1231,43 @@
    },
    "pmv8bcxby58grz": {
     "id": "pmv8bcxby58grz",
-    "name": "Desocupado",
+    "name": "Vago",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv8bouudb9z3g": {
+    "id": "pmv8bouudb9z3g",
+    "name": "Vago",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv8boylwnovlk": {
+    "id": "pmv8boylwnovlk",
+    "name": "Vago",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv8bp2dn2mnug": {
+    "id": "pmv8bp2dn2mnug",
+    "name": "Vago",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv8bp6ocwz3ah": {
+    "id": "pmv8bp6ocwz3ah",
+    "name": "Vago",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv8bpa94hkuc4": {
+    "id": "pmv8bpa94hkuc4",
+    "name": "Vago",
+    "role": "",
+    "area": "marcelo"
+   },
+   "pmv8bpc8w464gq": {
+    "id": "pmv8bpc8w464gq",
+    "name": "Vago",
     "role": "",
     "area": "marcelo"
    }
@@ -1398,7 +1434,13 @@
    "b6-andar2b-com-b3": "pmv6z55z75w1rl1b",
    "b6-andar2b-com-b1": "pmv6z55z75x3733t",
    "b6-andar1-fac-t0": "pmv72ocjjgcpen",
-   "b6-andar2a-fisc-t0": "pmv8bcxby58grz"
+   "b6-andar2a-fisc-t0": "pmv8bcxby58grz",
+   "b6-andar2a-fisc-t1": "pmv8bouudb9z3g",
+   "b6-andar2a-fisc-t2": "pmv8boylwnovlk",
+   "b6-andar2a-fisc-t3": "pmv8bp2dn2mnug",
+   "b6-andar2a-fisc-t4": "pmv8bp6ocwz3ah",
+   "b6-andar2a-fisc-b3": "pmv8bpa94hkuc4",
+   "b6-andar2a-fisc-b4": "pmv8bpc8w464gq"
   },
   "reserve": {},
   "labels": {},
@@ -1871,6 +1913,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1791994674774
+  "updatedAt": 1791995254266
  }
 }
