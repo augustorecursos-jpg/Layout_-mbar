@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-14T16:27:42.816Z",
+ "publishedAt": "2026-10-14T16:28:01.468Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1270,6 +1270,12 @@
     "name": "Vago",
     "role": "",
     "area": "marcelo"
+   },
+   "pmv8bpo98zizb6": {
+    "id": "pmv8bpo98zizb6",
+    "name": "Vago",
+    "role": "",
+    "area": "marcelo"
    }
   },
   "assign": {
@@ -1440,7 +1446,8 @@
    "b6-andar2a-fisc-t3": "pmv8bp2dn2mnug",
    "b6-andar2a-fisc-t4": "pmv8bp6ocwz3ah",
    "b6-andar2a-fisc-b3": "pmv8bpa94hkuc4",
-   "b6-andar2a-fisc-b4": "pmv8bpc8w464gq"
+   "b6-andar2a-fisc-b4": "pmv8bpc8w464gq",
+   "b6-andar2a-fin-t4": "pmv8bpo98zizb6"
   },
   "reserve": {},
   "labels": {},
@@ -1913,6 +1920,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1791995254266
+  "updatedAt": 1791995272944
  }
 }
