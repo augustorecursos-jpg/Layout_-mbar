@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-14T16:29:58.298Z",
+ "publishedAt": "2026-10-14T21:41:04.096Z",
  "state": {
   "version": 2,
   "areas": {
@@ -865,7 +865,7 @@
    },
    "pmv701w9f4bhlg42": {
     "id": "pmv701w9f4bhlg42",
-    "name": "Emprestada CI J&F - Reservado",
+    "name": "Emprestada CI J&F - Carol",
     "role": "Analista Sr.",
     "area": "marcelo"
    },
@@ -1934,6 +1934,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1791995389694
+  "updatedAt": 1792014055442
  }
 }
