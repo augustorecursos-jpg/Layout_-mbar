@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-13T19:54:47.673Z",
+ "publishedAt": "2026-10-14T16:16:36.443Z",
  "state": {
   "version": 2,
   "areas": {
@@ -901,7 +901,7 @@
    },
    "pmv701w9fqyae249": {
     "id": "pmv701w9fqyae249",
-    "name": "Luan",
+    "name": "Luan Marques",
     "role": "Analista de P&D Sr",
     "area": "alexandre"
    },
@@ -1864,6 +1864,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1791921067677
+  "updatedAt": 1791994587771
  }
 }
