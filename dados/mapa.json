@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-14T16:16:54.826Z",
+ "publishedAt": "2026-10-14T16:18:03.533Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1228,6 +1228,12 @@
     "name": "Reservado",
     "role": "Gerente de Almoxarifado",
     "area": "admin"
+   },
+   "pmv8bcxby58grz": {
+    "id": "pmv8bcxby58grz",
+    "name": "Desocupado",
+    "role": "",
+    "area": "marcelo"
    }
   },
   "assign": {
@@ -1391,7 +1397,8 @@
    "b6-andar2b-com-b0": "pmv71z5o9rfivd",
    "b6-andar2b-com-b3": "pmv6z55z75w1rl1b",
    "b6-andar2b-com-b1": "pmv6z55z75x3733t",
-   "b6-andar1-fac-t0": "pmv72ocjjgcpen"
+   "b6-andar1-fac-t0": "pmv72ocjjgcpen",
+   "b6-andar2a-fisc-t0": "pmv8bcxby58grz"
   },
   "reserve": {},
   "labels": {},
@@ -1864,6 +1871,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1791994606187
+  "updatedAt": 1791994674774
  }
 }
