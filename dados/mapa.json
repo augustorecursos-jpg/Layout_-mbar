@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-14T16:29:44.726Z",
+ "publishedAt": "2026-10-14T16:29:58.298Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1069,7 +1069,7 @@
    },
    "pmv701w9fh8rc080": {
     "id": "pmv701w9fh8rc080",
-    "name": "Reservado - Vago",
+    "name": "Vago",
     "role": "",
     "area": "marcelo"
    },
@@ -1934,6 +1934,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1791995384180
+  "updatedAt": 1791995389694
  }
 }
