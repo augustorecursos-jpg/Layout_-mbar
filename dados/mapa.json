@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-14T21:41:04.096Z",
+ "publishedAt": "2026-10-23T18:24:17.030Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1129,7 +1129,7 @@
    },
    "pmv70s8c5mq258": {
     "id": "pmv70s8c5mq258",
-    "name": "Emprestada CI J&F - Reservado",
+    "name": "Emprestada CI J&F - Lays",
     "role": "",
     "area": "marcelo"
    },
@@ -1934,6 +1934,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1792014055442
+  "updatedAt": 1792779848358
  }
 }
