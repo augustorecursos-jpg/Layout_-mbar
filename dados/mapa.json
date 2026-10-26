@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:33:50.878Z",
+ "publishedAt": "2026-10-26T19:34:23.542Z",
  "state": {
   "version": 2,
   "areas": {
@@ -453,13 +453,13 @@
     "id": "pmv6z55z7xilux0t",
     "name": "Victor",
     "role": "",
-    "area": "financeiro"
+    "area": "marcelo"
    },
    "pmv6z55z7u2jt51t": {
     "id": "pmv6z55z7u2jt51t",
     "name": "Wilson",
     "role": "",
-    "area": "financeiro"
+    "area": "marcelo"
    },
    "pmv6z55z717t2o2t": {
     "id": "pmv6z55z717t2o2t",
@@ -471,7 +471,7 @@
     "id": "pmv6z55z77pnat3t",
     "name": "Cesar",
     "role": "",
-    "area": "financeiro"
+    "area": "marcelo"
    },
    "pmv6z55z7s84624t": {
     "id": "pmv6z55z7s84624t",
@@ -1215,7 +1215,7 @@
     "id": "pmv71uixbm5g5e",
     "name": "Diego",
     "role": "Analista",
-    "area": "financeiro"
+    "area": "marcelo"
    },
    "pmv71z5o9rfivd": {
     "id": "pmv71z5o9rfivd",
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793043222230
+  "updatedAt": 1793043254821
  }
 }
