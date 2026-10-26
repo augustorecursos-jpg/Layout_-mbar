@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:10:14.325Z",
+ "publishedAt": "2026-10-26T19:16:58.343Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1129,7 +1129,7 @@
    },
    "pmv70s8c5mq258": {
     "id": "pmv70s8c5mq258",
-    "name": "Comunicação - Lays",
+    "name": "Lays - Comunicação",
     "role": "",
     "area": "rubens"
    },
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793041805768
+  "updatedAt": 1793042209748
  }
 }
