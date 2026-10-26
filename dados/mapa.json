@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:18:26.410Z",
+ "publishedAt": "2026-10-26T19:22:03.789Z",
  "state": {
   "version": 2,
   "areas": {
@@ -757,19 +757,19 @@
    },
    "pmv701w9f193ad22": {
     "id": "pmv701w9f193ad22",
-    "name": "Mgás 1",
+    "name": "Elias Cordeiro",
     "role": "",
     "area": "mgas"
    },
    "pmv701w9f3k08523": {
     "id": "pmv701w9f3k08523",
-    "name": "Mgás 2",
+    "name": "Lucas",
     "role": "",
     "area": "mgas"
    },
    "pmv701w9fxig0j24": {
     "id": "pmv701w9fxig0j24",
-    "name": "Mgás 3",
+    "name": "Marcelo",
     "role": "",
     "area": "mgas"
    },
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793042295776
+  "updatedAt": 1793042515313
  }
 }
