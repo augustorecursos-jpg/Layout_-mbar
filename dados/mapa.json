@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:34:23.542Z",
+ "publishedAt": "2026-10-26T19:34:43.881Z",
  "state": {
   "version": 2,
   "areas": {
@@ -511,9 +511,9 @@
    },
    "pmv6z55z7yycmg4b": {
     "id": "pmv6z55z7yycmg4b",
-    "name": "Isabele",
+    "name": "Vago",
     "role": "",
-    "area": "financeiro"
+    "area": "marcelo"
    },
    "pmv6z55z7vqeg95b": {
     "id": "pmv6z55z7vqeg95b",
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793043254821
+  "updatedAt": 1793043283434
  }
 }
