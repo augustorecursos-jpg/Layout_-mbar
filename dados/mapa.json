@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:00:34.592Z",
+ "publishedAt": "2026-10-26T19:01:01.767Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1288,6 +1288,12 @@
     "name": "Vago",
     "role": "",
     "area": "oreste"
+   },
+   "pmvpmgtlxufhqz": {
+    "id": "pmvpmgtlxufhqz",
+    "name": "Luiz Felipe",
+    "role": "Especialista de Novos Negócios",
+    "area": "alexandre"
    }
   },
   "assign": {
@@ -1460,7 +1466,8 @@
    "b6-andar2a-fisc-b4": "pmv8bpc8w464gq",
    "b6-andar2a-fin-t4": "pmv8bpo98zizb6",
    "b6-andar2b-opcom-b1": "pmv8bqq6mb17nr",
-   "b6-andar2b-opcom-t3": "pmv8br42rl7tib"
+   "b6-andar2b-opcom-t3": "pmv8br42rl7tib",
+   "mz-c3-p7-r": "pmvpmgtlxufhqz"
   },
   "reserve": {},
   "labels": {},
@@ -1933,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793041224052
+  "updatedAt": 1793041253349
  }
 }
