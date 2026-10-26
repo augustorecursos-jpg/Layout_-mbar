@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:23:53.089Z",
+ "publishedAt": "2026-10-26T19:28:22.042Z",
  "state": {
   "version": 2,
   "areas": {
@@ -685,8 +685,8 @@
    },
    "pmv701w9f1fwfr10": {
     "id": "pmv701w9f1fwfr10",
-    "name": "Carolina Constante Simoes De Campos",
-    "role": "Advogado Pl",
+    "name": "Victor Navarro",
+    "role": "Advogado Sr",
     "area": "joao"
    },
    "pmv701w9ffdpzi11": {
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793042624352
+  "updatedAt": 1793042893578
  }
 }
