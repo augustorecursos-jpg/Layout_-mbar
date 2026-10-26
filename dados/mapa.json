@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:22:26.300Z",
+ "publishedAt": "2026-10-26T19:22:58.850Z",
  "state": {
   "version": 2,
   "areas": {
@@ -829,7 +829,7 @@
    },
    "pmv701w9fl79ik35": {
     "id": "pmv701w9fl79ik35",
-    "name": "Emprestada Mgás - Jessica",
+    "name": "Emprestada Mgás - Jhenifer",
     "role": "",
     "area": "ronan"
    },
@@ -1465,9 +1465,9 @@
    "b6-andar2b-opcom-t3": "pmv8br42rl7tib",
    "mz-c3-p7-r": "pmvpmgtlxufhqz",
    "mz-c3-p4-l": "pmv701w9fq1dd343",
-   "mz-c3-p5-l": "pmv701w9fr27lz32",
-   "mz-c3-p4-r": "pmv701w9f4bhlg42",
-   "mz-c3-p5-r": "pmv701w9fh8rc080"
+   "mz-c3-p5-l": "pmv701w9f4bhlg42",
+   "mz-c3-p5-r": "pmv701w9fr27lz32",
+   "mz-c3-p4-r": "pmv701w9fh8rc080"
   },
   "reserve": {},
   "labels": {},
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793042537908
+  "updatedAt": 1793042570427
  }
 }
