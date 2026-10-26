@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:31:47.733Z",
+ "publishedAt": "2026-10-26T19:33:50.878Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1273,7 +1273,7 @@
    },
    "pmv8bpo98zizb6": {
     "id": "pmv8bpo98zizb6",
-    "name": "Vago",
+    "name": "Samuel",
     "role": "",
     "area": "marcelo"
    },
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793043099281
+  "updatedAt": 1793043222230
  }
 }
