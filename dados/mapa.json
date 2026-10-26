@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:09:51.600Z",
+ "publishedAt": "2026-10-26T19:10:14.325Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1129,9 +1129,9 @@
    },
    "pmv70s8c5mq258": {
     "id": "pmv70s8c5mq258",
-    "name": "Emprestada CI J&F - Lays",
+    "name": "Comunicação - Lays",
     "role": "",
-    "area": "marcelo"
+    "area": "rubens"
    },
    "pmv71iottxq3bl": {
     "id": "pmv71iottxq3bl",
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793041783035
+  "updatedAt": 1793041805768
  }
 }
