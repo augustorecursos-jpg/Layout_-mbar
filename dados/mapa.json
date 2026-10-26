@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:28:22.042Z",
+ "publishedAt": "2026-10-26T19:29:43.762Z",
  "state": {
   "version": 2,
   "areas": {
@@ -967,7 +967,7 @@
    },
    "pmv701w9f0vrlc60": {
     "id": "pmv701w9f0vrlc60",
-    "name": "Vitor Athaide",
+    "name": "Vago",
     "role": "Analista",
     "area": "marcelo"
    },
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793042893578
+  "updatedAt": 1793042975216
  }
 }
