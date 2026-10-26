@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:22:03.789Z",
+ "publishedAt": "2026-10-26T19:22:26.300Z",
  "state": {
   "version": 2,
   "areas": {
@@ -829,7 +829,7 @@
    },
    "pmv701w9fl79ik35": {
     "id": "pmv701w9fl79ik35",
-    "name": "Emprestada Mgás - Reservado 2",
+    "name": "Emprestada Mgás - Jessica",
     "role": "",
     "area": "ronan"
    },
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793042515313
+  "updatedAt": 1793042537908
  }
 }
