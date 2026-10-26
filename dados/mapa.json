@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:34:43.881Z",
+ "publishedAt": "2026-10-26T19:35:03.458Z",
  "state": {
   "version": 2,
   "areas": {
@@ -483,13 +483,13 @@
     "id": "pmv6z55z72hcoe5t",
     "name": "João",
     "role": "",
-    "area": "financeiro"
+    "area": "renovaveis"
    },
    "pmv6z55z74hykh0b": {
     "id": "pmv6z55z74hykh0b",
     "name": "Felipe",
     "role": "",
-    "area": "financeiro"
+    "area": "marcelo"
    },
    "pmv6z55z7k8fta1b": {
     "id": "pmv6z55z7k8fta1b",
@@ -519,7 +519,7 @@
     "id": "pmv6z55z7vqeg95b",
     "name": "Yan",
     "role": "",
-    "area": "financeiro"
+    "area": "renovaveis"
    },
    "pmv6z55z7h54640t": {
     "id": "pmv6z55z7h54640t",
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793043283434
+  "updatedAt": 1793043303146
  }
 }
