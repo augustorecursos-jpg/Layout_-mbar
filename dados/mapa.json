@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:17:52.018Z",
+ "publishedAt": "2026-10-26T19:18:16.371Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1416,7 +1416,6 @@
    "mz-c5-p1-r": "pmv701w9fodzjy74",
    "mz-c3-p1-r": "pmv701w9feaup778",
    "mz-c3-p3-r": "pmv701w9fxfytu37",
-   "mz-c3-p4-r": "pmv701w9f4bhlg42",
    "mz-c1-p2-l": "pmv701w9f1fwfr10",
    "mz-c1-p3-l": "pmv703meryrb6q",
    "b6-terreo-rh-t0": "pmv704sdo03q61",
@@ -1430,7 +1429,6 @@
    "mz-c4-p3-l": "pmv701w9fateur81",
    "mz-c4-p3-r": "pmv701w9fsfjsa56",
    "mz-c3-p6-r": "pmv701w9fqyae249",
-   "mz-c3-p5-r": "pmv701w9fr27lz32",
    "mz-c2-p3-r": "pmv701w9f0gcne61",
    "mz-c2-p4-r": "pmv701w9fckq7762",
    "mz-c2-p5-r": "pmv701w9fuhgyh63",
@@ -1467,7 +1465,9 @@
    "b6-andar2b-opcom-t3": "pmv8br42rl7tib",
    "mz-c3-p7-r": "pmvpmgtlxufhqz",
    "mz-c3-p4-l": "pmv701w9fq1dd343",
-   "mz-c3-p5-l": "pmv701w9fh8rc080"
+   "mz-c3-p5-l": "pmv701w9fr27lz32",
+   "mz-c3-p4-r": "pmv701w9f4bhlg42",
+   "mz-c3-p5-r": "pmv701w9fh8rc080"
   },
   "reserve": {},
   "labels": {},
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793042263510
+  "updatedAt": 1793042295776
  }
 }
