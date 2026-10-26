@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:16:58.343Z",
+ "publishedAt": "2026-10-26T19:17:09.216Z",
  "state": {
   "version": 2,
   "areas": {
@@ -865,7 +865,7 @@
    },
    "pmv701w9f4bhlg42": {
     "id": "pmv701w9f4bhlg42",
-    "name": "Comunicação - Carol",
+    "name": "Carol - Comunicação",
     "role": "Analista Sr.",
     "area": "rubens"
    },
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793042209748
+  "updatedAt": 1793042218832
  }
 }
