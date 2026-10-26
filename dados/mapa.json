@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:22:58.850Z",
+ "publishedAt": "2026-10-26T19:23:53.089Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1063,7 +1063,7 @@
    },
    "pmv701w9f0i7in79": {
     "id": "pmv701w9f0i7in79",
-    "name": "Vago - Time Bruno",
+    "name": "Vago",
     "role": "",
     "area": "marcelo"
    },
@@ -1940,6 +1940,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793042570427
+  "updatedAt": 1793042624352
  }
 }
