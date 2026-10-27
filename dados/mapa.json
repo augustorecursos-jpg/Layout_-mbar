@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-26T19:35:21.621Z",
+ "publishedAt": "2026-10-27T19:02:04.264Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1470,7 +1470,9 @@
    "mz-c3-p4-r": "pmv701w9fh8rc080"
   },
   "reserve": {},
-  "labels": {},
+  "labels": {
+   "mz-holding:d4": "DIretor de Operações"
+  },
   "layout": {
    "b6-terreo": [
     {
@@ -1940,6 +1942,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793043312988
+  "updatedAt": 1793127715256
  }
 }
