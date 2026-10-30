@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-30T17:29:31.320Z",
+ "publishedAt": "2026-10-30T17:31:34.220Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1315,13 +1315,6 @@
    "b6-andar1-sup-b2": "pmv6z55z7g8kpm2b",
    "b6-andar1-sup-b3": "pmv6z55z7ad0al3b",
    "b6-andar1-sup-b4": "pmv6z55z751cao4b",
-   "b6-andar1-fac-t1": "pmv6z55z72ukuu1t",
-   "b6-andar1-fac-t2": "pmv6z55z7i2xcm2t",
-   "b6-andar1-fac-t3": "pmv6z55z7lru2k3t",
-   "b6-andar1-fac-b0": "pmv6z55z7ko8br0b",
-   "b6-andar1-fac-b1": "pmv6z55z7x81dn1b",
-   "b6-andar1-fac-b2": "pmv6z55z7bian02b",
-   "b6-andar1-fac-b3": "pmv6z55z7b8u453b",
    "b6-andar1-comex-t0": "pmv6z55z7hpblv0t",
    "b6-andar1-comex-t1": "pmv6z55z7291bh1t",
    "b6-andar1-comex-b0": "pmv6z55z7daqx80b",
@@ -1447,7 +1440,6 @@
    "b6-andar2b-com-b0": "pmv71z5o9rfivd",
    "b6-andar2b-com-b3": "pmv6z55z75w1rl1b",
    "b6-andar2b-com-b1": "pmv6z55z75x3733t",
-   "b6-andar1-fac-t0": "pmv72ocjjgcpen",
    "b6-andar2a-fisc-t0": "pmv8bcxby58grz",
    "b6-andar2a-fisc-t1": "pmv8bouudb9z3g",
    "b6-andar2a-fisc-t2": "pmv8boylwnovlk",
@@ -1941,6 +1933,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793381362627
+  "updatedAt": 1793381485481
  }
 }
