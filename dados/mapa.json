@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-30T17:42:13.185Z",
+ "publishedAt": "2026-10-30T17:49:51.256Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1294,6 +1294,12 @@
     "name": "Luiz Felipe",
     "role": "Especialista de Novos Negócios",
     "area": "alexandre"
+   },
+   "pmvv9ooylaab5a": {
+    "id": "pmvv9ooylaab5a",
+    "name": "Assistente de Suprimentos",
+    "role": "Assistente de Suprimentos",
+    "area": "suprimentos"
    }
   },
   "assign": {
@@ -1462,7 +1468,8 @@
    "b6-andar1-fac-b0": "pmv6z55z7hpblv0t",
    "b6-andar1-comex-t1": "pmv71r9c8rtmda",
    "b6-andar1-comex-t0": "pmv6z55z7qb0gm0b",
-   "b6-andar1-comex-b1": "pmv6z55z73fo301b"
+   "b6-andar1-comex-b1": "pmv6z55z73fo301b",
+   "b6-andar1-fac-t0": "pmvv9ooylaab5a"
   },
   "reserve": {},
   "labels": {
@@ -1939,6 +1946,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793382124124
+  "updatedAt": 1793382582622
  }
 }
