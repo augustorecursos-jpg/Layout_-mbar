@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-30T18:15:07.286Z",
+ "publishedAt": "2026-10-30T18:15:19.379Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1460,8 +1460,6 @@
    "b6-andar2b-com-b3": "pmv6z55z75w1rl1b",
    "b6-andar2b-com-b1": "pmv6z55z75x3733t",
    "b6-andar2a-fin-t4": "pmv8bpo98zizb6",
-   "b6-andar2b-opcom-b1": "pmv8bqq6mb17nr",
-   "b6-andar2b-opcom-t3": "pmv8br42rl7tib",
    "mz-c3-p7-r": "pmvpmgtlxufhqz",
    "mz-c3-p4-l": "pmv701w9fq1dd343",
    "mz-c3-p5-l": "pmv701w9f4bhlg42",
@@ -1964,6 +1962,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793384098058
+  "updatedAt": 1793384110716
  }
 }
