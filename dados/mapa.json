@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-30T18:17:15.870Z",
+ "publishedAt": "2026-10-30T18:17:42.790Z",
  "state": {
   "version": 2,
   "areas": {
@@ -509,12 +509,6 @@
     "role": "",
     "area": "financeiro"
    },
-   "pmv6z55z7yycmg4b": {
-    "id": "pmv6z55z7yycmg4b",
-    "name": "Vago",
-    "role": "",
-    "area": "marcelo"
-   },
    "pmv6z55z7vqeg95b": {
     "id": "pmv6z55z7vqeg95b",
     "name": "Yan",
@@ -869,12 +863,6 @@
     "role": "Analista Sr.",
     "area": "rubens"
    },
-   "pmv701w9fq1dd343": {
-    "id": "pmv701w9fq1dd343",
-    "name": "Vago",
-    "role": "Analista de Controladoria",
-    "area": "marcelo"
-   },
    "pmv701w9f9pvem44": {
     "id": "pmv701w9f9pvem44",
     "name": "Henrique De Farias Souza",
@@ -962,12 +950,6 @@
    "pmv701w9f1jkuf59": {
     "id": "pmv701w9f1jkuf59",
     "name": "Wellington",
-    "role": "Analista",
-    "area": "marcelo"
-   },
-   "pmv701w9f0vrlc60": {
-    "id": "pmv701w9f0vrlc60",
-    "name": "Vago",
     "role": "Analista",
     "area": "marcelo"
    },
@@ -1065,12 +1047,6 @@
     "id": "pmv701w9f0i7in79",
     "name": "Camila Pimentel",
     "role": "Analista de Controladoria Sr.",
-    "area": "marcelo"
-   },
-   "pmv701w9fh8rc080": {
-    "id": "pmv701w9fh8rc080",
-    "name": "Vago",
-    "role": "",
     "area": "marcelo"
    },
    "pmv701w9fateur81": {
@@ -1957,6 +1933,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793384227238
+  "updatedAt": 1793384253815
  }
 }
