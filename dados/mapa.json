@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-30T17:41:12.306Z",
+ "publishedAt": "2026-10-30T17:42:13.185Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1315,10 +1315,6 @@
    "b6-andar1-sup-b2": "pmv6z55z7g8kpm2b",
    "b6-andar1-sup-b3": "pmv6z55z7ad0al3b",
    "b6-andar1-sup-b4": "pmv6z55z751cao4b",
-   "b6-andar1-comex-t0": "pmv6z55z7hpblv0t",
-   "b6-andar1-comex-t1": "pmv6z55z7291bh1t",
-   "b6-andar1-comex-b0": "pmv6z55z7daqx80b",
-   "b6-andar1-comex-b1": "pmv6z55z709aon1b",
    "b6-andar2a-ti-t0": "pmv6z55z7l4i000t",
    "b6-andar2a-ti-b0": "pmv6z55z7i01q30b",
    "b6-andar2a-ti-b1": "pmv6z55z7imb5b1b",
@@ -1459,7 +1455,14 @@
    "b6-andar2a-fisc-t2": "pmv6z55z72ukuu1t",
    "b6-andar2a-fisc-t1": "pmv6z55z7i2xcm2t",
    "b6-andar2a-fisc-t0": "pmv6z55z7lru2k3t",
-   "b6-andar2a-fisc-t3": "pmv72ocjjgcpen"
+   "b6-andar2a-fisc-t3": "pmv72ocjjgcpen",
+   "b6-andar1-fac-b3": "pmv6z55z7291bh1t",
+   "b6-andar1-fac-b2": "pmv6z55z709aon1b",
+   "b6-andar1-fac-b1": "pmv6z55z7daqx80b",
+   "b6-andar1-fac-b0": "pmv6z55z7hpblv0t",
+   "b6-andar1-comex-t1": "pmv71r9c8rtmda",
+   "b6-andar1-comex-t0": "pmv6z55z7qb0gm0b",
+   "b6-andar1-comex-b1": "pmv6z55z73fo301b"
   },
   "reserve": {},
   "labels": {
@@ -1936,6 +1939,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793382063464
+  "updatedAt": 1793382124124
  }
 }
