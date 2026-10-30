@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-30T18:17:42.790Z",
+ "publishedAt": "2026-10-30T18:18:25.971Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1067,12 +1067,6 @@
     "role": "",
     "area": "rubens"
    },
-   "pmv705aw1qeqwt": {
-    "id": "pmv705aw1qeqwt",
-    "name": "Reservado",
-    "role": "",
-    "area": "rubens"
-   },
    "pmv7068osdsnvt": {
     "id": "pmv7068osdsnvt",
     "name": "Junior",
@@ -1204,48 +1198,6 @@
     "name": "Reservado",
     "role": "Gerente de Almoxarifado",
     "area": "admin"
-   },
-   "pmv8bcxby58grz": {
-    "id": "pmv8bcxby58grz",
-    "name": "Vago",
-    "role": "",
-    "area": "marcelo"
-   },
-   "pmv8bouudb9z3g": {
-    "id": "pmv8bouudb9z3g",
-    "name": "Vago",
-    "role": "",
-    "area": "marcelo"
-   },
-   "pmv8boylwnovlk": {
-    "id": "pmv8boylwnovlk",
-    "name": "Vago",
-    "role": "",
-    "area": "marcelo"
-   },
-   "pmv8bp2dn2mnug": {
-    "id": "pmv8bp2dn2mnug",
-    "name": "Vago",
-    "role": "",
-    "area": "marcelo"
-   },
-   "pmv8bp6ocwz3ah": {
-    "id": "pmv8bp6ocwz3ah",
-    "name": "Vago",
-    "role": "",
-    "area": "marcelo"
-   },
-   "pmv8bpa94hkuc4": {
-    "id": "pmv8bpa94hkuc4",
-    "name": "Vago",
-    "role": "",
-    "area": "marcelo"
-   },
-   "pmv8bpc8w464gq": {
-    "id": "pmv8bpc8w464gq",
-    "name": "Vago",
-    "role": "",
-    "area": "marcelo"
    },
    "pmv8bpo98zizb6": {
     "id": "pmv8bpo98zizb6",
@@ -1933,6 +1885,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793384253815
+  "updatedAt": 1793384296794
  }
 }
