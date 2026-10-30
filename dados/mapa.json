@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-30T17:50:27.423Z",
+ "publishedAt": "2026-10-30T17:50:51.488Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1306,6 +1306,12 @@
     "name": "Analista de Suprimentos",
     "role": "Analista de Suprimentos",
     "area": "suprimentos"
+   },
+   "pmvv9pz7irx2jc": {
+    "id": "pmvv9pz7irx2jc",
+    "name": "Daniel Scola",
+    "role": "Gerente de Suprimentos",
+    "area": "suprimentos"
    }
   },
   "assign": {
@@ -1476,7 +1482,8 @@
    "b6-andar1-comex-t0": "pmv6z55z7qb0gm0b",
    "b6-andar1-comex-b1": "pmv6z55z73fo301b",
    "b6-andar1-fac-t2": "pmvv9p30n2zq1u",
-   "b6-andar1-fac-t1": "pmvv9ooylaab5a"
+   "b6-andar1-fac-t1": "pmvv9ooylaab5a",
+   "b6-andar1-fac-t0": "pmvv9pz7irx2jc"
   },
   "reserve": {},
   "labels": {
@@ -1953,6 +1960,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793382618685
+  "updatedAt": 1793382642559
  }
 }
