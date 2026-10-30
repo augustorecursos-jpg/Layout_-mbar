@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-30T18:15:38.402Z",
+ "publishedAt": "2026-10-30T18:16:02.545Z",
  "state": {
   "version": 2,
   "areas": {
@@ -439,13 +439,13 @@
    },
    "pmv6z55z7qb0gm0b": {
     "id": "pmv6z55z7qb0gm0b",
-    "name": "Carla",
+    "name": "Reservado",
     "role": "Analista Sr",
     "area": "controladoria"
    },
    "pmv6z55z73fo301b": {
     "id": "pmv6z55z73fo301b",
-    "name": "João",
+    "name": "Reservado",
     "role": "",
     "area": "controladoria"
    },
@@ -1207,7 +1207,7 @@
    },
    "pmv71r9c8rtmda": {
     "id": "pmv71r9c8rtmda",
-    "name": "Camila Pimentel",
+    "name": "Reservado",
     "role": "Analista Sr",
     "area": "controladoria"
    },
@@ -1961,6 +1961,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793384129691
+  "updatedAt": 1793384153944
  }
 }
