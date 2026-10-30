@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-10-30T17:27:06.606Z",
+ "publishedAt": "2026-10-30T17:27:50.372Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1057,8 +1057,8 @@
    },
    "pmv701w9feaup778": {
     "id": "pmv701w9feaup778",
-    "name": "Vago - Time Bruno",
-    "role": "",
+    "name": "João Vitor",
+    "role": "Analista de Controladoria Pl",
     "area": "marcelo"
    },
    "pmv701w9f0i7in79": {
@@ -1944,6 +1944,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793381217788
+  "updatedAt": 1793381261740
  }
 }
