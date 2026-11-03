@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-03T13:33:18.655Z",
+ "publishedAt": "2026-11-03T13:33:54.312Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1415,7 +1415,11 @@
    "mz-holding:d4": "DIretor de Operações",
    "mz-holding:d5": "Diretor de Regulatório",
    "mz-holding:d6": "Diretor de Novos Negócios",
-   "mz-holding:d7": "Diretor de M&A"
+   "mz-holding:d7": "Diretor de M&A",
+   "mz-holding:d8": "Diretor de Expansão",
+   "mz-holding:d1": "Diretor Jurídico",
+   "mz-holding:d2": "Diretor Comercial",
+   "mz-holding:d3": "Diretor Adm Financeiro"
   },
   "layout": {
    "b6-terreo": [
@@ -1886,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793712790053
+  "updatedAt": 1793712825709
  }
 }
