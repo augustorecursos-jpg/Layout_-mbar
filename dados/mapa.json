@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-03T13:33:54.312Z",
+ "publishedAt": "2026-11-03T13:34:22.079Z",
  "state": {
   "version": 2,
   "areas": {
@@ -661,7 +661,7 @@
    },
    "pmv701w9frdm1f6": {
     "id": "pmv701w9frdm1f6",
-    "name": "Joao Gabriel Vieira De Medeiros",
+    "name": "Joao Gabriel",
     "role": "Diretor Jurídico",
     "area": "joao"
    },
@@ -727,7 +727,7 @@
    },
    "pmv701w9fmk83o18": {
     "id": "pmv701w9fmk83o18",
-    "name": "Oreste Junior Trombetta",
+    "name": "Oreste Trombetta",
     "role": "Diretor Comercial",
     "area": "oreste"
    },
@@ -745,7 +745,7 @@
    },
    "pmv701w9f24ao521": {
     "id": "pmv701w9f24ao521",
-    "name": "Ronan Nogueira Dias",
+    "name": "Ronan Nogueira",
     "role": "Diretor de Implantação e M&A de Usinas",
     "area": "ronan"
    },
@@ -1890,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793712825709
+  "updatedAt": 1793712853368
  }
 }
