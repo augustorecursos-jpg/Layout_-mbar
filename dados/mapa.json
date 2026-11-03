@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-03T10:21:57.197Z",
+ "publishedAt": "2026-11-03T10:22:14.186Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1482,23 +1482,23 @@
     {
      "type": "door",
      "x": 290,
-     "y": 40,
+     "y": 50,
      "label": "Porta",
      "icon": "door",
      "id": "door1"
     },
     {
      "type": "door",
-     "x": 384,
-     "y": 40,
+     "x": 40,
+     "y": 140,
      "label": "Banheiro",
      "icon": "wc",
      "id": "door2"
     },
     {
      "type": "door",
-     "x": 520,
-     "y": 40,
+     "x": 150,
+     "y": 140,
      "label": "Banheiro",
      "icon": "wc",
      "id": "door3"
@@ -1882,6 +1882,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793701308605
+  "updatedAt": 1793701325473
  }
 }
