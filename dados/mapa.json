@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-03T13:34:22.079Z",
+ "publishedAt": "2026-11-03T13:34:32.957Z",
  "state": {
   "version": 2,
   "areas": {
@@ -739,7 +739,7 @@
    },
    "pmv701w9f18aq520": {
     "id": "pmv701w9f18aq520",
-    "name": "Alexandre Rodrigues Tavares",
+    "name": "Alexandre Tavares",
     "role": "Diretor de Novos Negócios",
     "area": "alexandre"
    },
@@ -1890,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793712853368
+  "updatedAt": 1793712862122
  }
 }
