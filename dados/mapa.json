@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-03T13:34:32.957Z",
+ "publishedAt": "2026-11-03T13:35:07.329Z",
  "state": {
   "version": 2,
   "areas": {
@@ -709,7 +709,7 @@
    },
    "pmv701w9fc4cn315": {
     "id": "pmv701w9fc4cn315",
-    "name": "Helvio Neves Guerra",
+    "name": "Helvio Neves",
     "role": "Diretor Regulatório",
     "area": "helvio"
    },
@@ -1890,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793712862122
+  "updatedAt": 1793712898353
  }
 }
