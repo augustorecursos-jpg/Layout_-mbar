@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-04T14:25:42.074Z",
+ "publishedAt": "2026-11-04T14:26:03.965Z",
  "state": {
   "version": 2,
   "areas": {
@@ -937,7 +937,7 @@
    },
    "pmv701w9fdnpfz57": {
     "id": "pmv701w9fdnpfz57",
-    "name": "Ricardo",
+    "name": "Ricardo Campos",
     "role": "Coordenador",
     "area": "marcelo"
    },
@@ -1890,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793802333083
+  "updatedAt": 1793802355213
  }
 }
