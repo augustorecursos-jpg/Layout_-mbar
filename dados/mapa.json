@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-04T14:30:00.157Z",
+ "publishedAt": "2026-11-04T14:30:22.484Z",
  "state": {
   "version": 2,
   "areas": {
@@ -247,8 +247,8 @@
   "people": {
    "pmv6z55z76zgtp2t": {
     "id": "pmv6z55z76zgtp2t",
-    "name": "Roberta",
-    "role": "",
+    "name": "Roberta Vitorino",
+    "role": "Analista de Recursos Humanos Sr",
     "area": "rubens"
    },
    "pmv6z55z7hburz0b": {
@@ -1890,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793802591340
+  "updatedAt": 1793802614046
  }
 }
