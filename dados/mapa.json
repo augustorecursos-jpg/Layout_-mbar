@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-04T14:30:22.484Z",
+ "publishedAt": "2026-11-04T14:30:58.335Z",
  "state": {
   "version": 2,
   "areas": {
@@ -259,13 +259,13 @@
    },
    "pmv6z55z7qoa3n1b": {
     "id": "pmv6z55z7qoa3n1b",
-    "name": "Vitória",
-    "role": "",
+    "name": "Vitória Domenice",
+    "role": "Analista de Recursos Humanos Pl",
     "area": "rubens"
    },
    "pmv6z55z7bxeps1t": {
     "id": "pmv6z55z7bxeps1t",
-    "name": "Vanessa",
+    "name": "Vanessa Curtiz",
     "role": "",
     "area": "rubens"
    },
@@ -1069,7 +1069,7 @@
    },
    "pmv7068osdsnvt": {
     "id": "pmv7068osdsnvt",
-    "name": "Junior",
+    "name": "Junior Silva",
     "role": "Coordenador de Folha",
     "area": "rubens"
    },
@@ -1890,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793802614046
+  "updatedAt": 1793802649510
  }
 }
