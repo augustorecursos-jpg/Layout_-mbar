@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-04T14:26:03.965Z",
+ "publishedAt": "2026-11-04T14:26:22.970Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1051,7 +1051,7 @@
    },
    "pmv701w9fateur81": {
     "id": "pmv701w9fateur81",
-    "name": "Kevin",
+    "name": "Kevin Gomes",
     "role": "Analista",
     "area": "marcelo"
    },
@@ -1890,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793802355213
+  "updatedAt": 1793802374532
  }
 }
