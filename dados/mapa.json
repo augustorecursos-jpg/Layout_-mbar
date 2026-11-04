@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-03T13:55:30.824Z",
+ "publishedAt": "2026-11-04T14:25:42.074Z",
  "state": {
   "version": 2,
   "areas": {
@@ -949,7 +949,7 @@
    },
    "pmv701w9f1jkuf59": {
     "id": "pmv701w9f1jkuf59",
-    "name": "Wellington",
+    "name": "Wellington de Melo",
     "role": "Analista",
     "area": "marcelo"
    },
@@ -1890,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793714121972
+  "updatedAt": 1793802333083
  }
 }
