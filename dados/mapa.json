@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-05T17:36:53.075Z",
+ "publishedAt": "2026-11-05T17:37:35.128Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1246,6 +1246,12 @@
     "name": "Reservado",
     "role": "",
     "area": "suprimentos"
+   },
+   "pmw3tw0zoitkws": {
+    "id": "pmw3tw0zoitkws",
+    "name": "Reservado - Fabio Hiro",
+    "role": "",
+    "area": "ti-dados"
    }
   },
   "assign": {
@@ -1408,7 +1414,8 @@
    "mz-c3-p5-l": "pmv701w9fr27lz32",
    "mz-c2-p7-r": "pmv70s8c5mq258",
    "mz-c2-p4-l": "pmv701w9fh176u65",
-   "mz-c2-p3-l": "pmv701w9f9pvem44"
+   "mz-c2-p3-l": "pmv701w9f9pvem44",
+   "b6-andar2a-fisc-b4": "pmw3tw0zoitkws"
   },
   "reserve": {},
   "labels": {
@@ -1890,6 +1897,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793900204251
+  "updatedAt": 1793900246532
  }
 }
