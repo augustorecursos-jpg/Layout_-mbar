@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-04T14:30:58.335Z",
+ "publishedAt": "2026-11-05T17:36:53.075Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1093,8 +1093,8 @@
    },
    "pmv7086du0s6l0": {
     "id": "pmv7086du0s6l0",
-    "name": "Dmitri Yukio",
-    "role": "Assistente de T.I",
+    "name": "Felipe",
+    "role": "Coordenador de T.I",
     "area": "ti-dados"
    },
    "pmv70s8c5mq258": {
@@ -1890,6 +1890,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793802649510
+  "updatedAt": 1793900204251
  }
 }
