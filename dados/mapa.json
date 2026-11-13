@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-05T17:37:35.128Z",
+ "publishedAt": "2026-11-13T18:43:00.599Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1323,12 +1323,9 @@
    "mz-c5-p3-r": "pmv701w9f193ad22",
    "mz-c5-p4-r": "pmv701w9f3k08523",
    "mz-c5-p5-r": "pmv701w9fxig0j24",
-   "mz-c5-p1-l": "pmv701w9f2zwi125",
-   "mz-c3-p6-l": "pmv701w9fxuieg26",
    "mz-c4-p6-r": "pmv701w9fg4ev927",
    "mz-c4-p5-r": "pmv701w9foboba28",
    "mz-c4-p7-r": "pmv701w9foefnw30",
-   "mz-c3-p7-l": "pmv701w9f8rnxe31",
    "mz-c4-p4-r": "pmv701w9f2qn4334",
    "mz-c4-p5-l": "pmv701w9fl79ik35",
    "mz-c3-p2-l": "pmv701w9fg8sax38",
@@ -1367,7 +1364,7 @@
    "mz-c4-p2-l": "pmv701w9ffxu4s55",
    "mz-c4-p3-l": "pmv701w9fateur81",
    "mz-c4-p3-r": "pmv701w9fsfjsa56",
-   "mz-c3-p6-r": "pmv701w9f4qgui33",
+   "mz-c3-p6-r": "pmv701w9f8rnxe31",
    "mz-c2-p3-r": "pmv701w9f0gcne61",
    "mz-c2-p4-r": "pmv701w9fckq7762",
    "mz-c2-p5-r": "pmv701w9fuhgyh63",
@@ -1389,8 +1386,6 @@
    "b6-andar2b-com-b3": "pmv6z55z75w1rl1b",
    "b6-andar2b-com-b1": "pmv6z55z75x3733t",
    "b6-andar2a-fin-t4": "pmv8bpo98zizb6",
-   "mz-c3-p7-r": "pmvpmgtlxufhqz",
-   "mz-c3-p5-r": "pmv701w9f4bhlg42",
    "mz-c3-p3-r": "pmv701w9f6v27r58",
    "mz-c3-p2-r": "pmv701w9f0i7in79",
    "b6-andar2a-fisc-b0": "pmv6z55z7b8u453b",
@@ -1411,11 +1406,15 @@
    "b6-andar1-comex-t0": "pmv6z55z7qb0gm0b",
    "b6-andar1-comex-t1": "pmv6z55z73fo301b",
    "b6-andar1-comex-b1": "pmv71r9c8rtmda",
-   "mz-c3-p5-l": "pmv701w9fr27lz32",
-   "mz-c2-p7-r": "pmv70s8c5mq258",
    "mz-c2-p4-l": "pmv701w9fh176u65",
    "mz-c2-p3-l": "pmv701w9f9pvem44",
-   "b6-andar2a-fisc-b4": "pmw3tw0zoitkws"
+   "b6-andar2a-fisc-b4": "pmw3tw0zoitkws",
+   "mz-c3-p5-r": "pmvpmgtlxufhqz",
+   "mz-c3-p7-l": "pmv701w9fxuieg26",
+   "mz-c3-p6-l": "pmv701w9fr27lz32",
+   "mz-c3-p5-l": "pmv701w9f4bhlg42",
+   "mz-c3-p7-r": "pmv701w9f4qgui33",
+   "mz-c3-p4-l": "pmv70s8c5mq258"
   },
   "reserve": {},
   "labels": {
@@ -1897,6 +1896,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1793900246532
+  "updatedAt": 1794577392154
  }
 }
