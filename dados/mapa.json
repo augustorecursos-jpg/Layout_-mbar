@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-19T12:34:59.649Z",
+ "publishedAt": "2026-11-19T12:35:14.897Z",
  "state": {
   "version": 2,
   "areas": {
@@ -895,7 +895,7 @@
    },
    "pmv701w9f7we2150": {
     "id": "pmv701w9f7we2150",
-    "name": "Gabriel Bizzo",
+    "name": "Gabriel Bizzo | Leandro",
     "role": "",
     "area": "green-cargo"
    },
@@ -1909,6 +1909,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795091690943
+  "updatedAt": 1795091706203
  }
 }
