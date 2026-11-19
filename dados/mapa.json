@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-19T12:34:46.039Z",
+ "publishedAt": "2026-11-19T12:34:59.649Z",
  "state": {
   "version": 2,
   "areas": {
@@ -907,8 +907,8 @@
    },
    "pmv701w9fh7o8j52": {
     "id": "pmv701w9fh7o8j52",
-    "name": "Leandro",
-    "role": "",
+    "name": "Luciano",
+    "role": "Analista de T.I",
     "area": "green-cargo"
    },
    "pmv701w9f1qoac53": {
@@ -1909,6 +1909,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795091675095
+  "updatedAt": 1795091690943
  }
 }
