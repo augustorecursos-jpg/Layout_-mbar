@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-19T12:35:14.897Z",
+ "publishedAt": "2026-11-19T12:38:03.486Z",
  "state": {
   "version": 2,
   "areas": {
@@ -901,7 +901,7 @@
    },
    "pmv701w9f4o79c51": {
     "id": "pmv701w9f4o79c51",
-    "name": "Priscila",
+    "name": "Priscila | Eduardo Rosa",
     "role": "",
     "area": "green-cargo"
    },
@@ -1909,6 +1909,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795091706203
+  "updatedAt": 1795091874262
  }
 }
