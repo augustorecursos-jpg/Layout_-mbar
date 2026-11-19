@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-19T11:46:04.080Z",
+ "publishedAt": "2026-11-19T12:23:09.862Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1252,6 +1252,12 @@
     "name": "Reservado - Fabio Hiro",
     "role": "",
     "area": "ti-dados"
+   },
+   "pmwnitlkxcd3jo": {
+    "id": "pmwnitlkxcd3jo",
+    "name": "Laura Navarro",
+    "role": "",
+    "area": "comex"
    }
   },
   "assign": {
@@ -1413,7 +1419,8 @@
    "mz-c3-p5-r": "pmvpmgtlxufhqz",
    "b6-terreo-dp-t1": "pmv6z55z77816o2t",
    "b6-terreo-dp-t2": "pmv6z55z7yj2tk3t",
-   "b6-terreo-dp-t3": "pmv7068osdsnvt"
+   "b6-terreo-dp-t3": "pmv7068osdsnvt",
+   "b6-andar1-fac-t3": "pmwnitlkxcd3jo"
   },
   "reserve": {},
   "labels": {
@@ -1895,6 +1902,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795088755421
+  "updatedAt": 1795090980994
  }
 }
