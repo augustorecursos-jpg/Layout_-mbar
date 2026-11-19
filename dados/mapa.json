@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-19T11:45:41.275Z",
+ "publishedAt": "2026-11-19T11:46:04.080Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1259,7 +1259,6 @@
    "b6-terreo-rh-b0": "pmv6z55z7hburz0b",
    "b6-terreo-rh-b1": "pmv6z55z7qoa3n1b",
    "b6-terreo-dp-b2": "pmv6z55z7wtvge2b",
-   "b6-terreo-dp-b3": "pmv6z55z7n33il3b",
    "b6-andar1-sup-t0": "pmv6z55z7pwn590t",
    "b6-andar1-sup-t1": "pmv6z55z7eezlx1t",
    "b6-andar1-sup-t2": "pmv6z55z7wrpr92t",
@@ -1354,7 +1353,7 @@
    "mz-c1-p3-l": "pmv703meryrb6q",
    "b6-terreo-rh-t0": "pmv704sdo03q61",
    "b6-terreo-dp-t0": "pmv6z55z7bxeps1t",
-   "b6-terreo-dp-b1": "pmv706hzwjd5xs",
+   "b6-terreo-dp-b1": "pmv6z55z7n33il3b",
    "b6-terreo-dp-b0": "pmv706pye145g4",
    "b6-terreo-rh-b2": "pmv7072b0wcptu",
    "b6-andar2a-ti-t1": "pmv7086du0s6l0",
@@ -1896,6 +1895,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795088732668
+  "updatedAt": 1795088755421
  }
 }
