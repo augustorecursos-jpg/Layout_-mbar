@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-19T11:45:17.192Z",
+ "publishedAt": "2026-11-19T11:45:41.275Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1069,8 +1069,8 @@
    },
    "pmv7068osdsnvt": {
     "id": "pmv7068osdsnvt",
-    "name": "Junior Silva",
-    "role": "Coordenador de Folha",
+    "name": "Thaisa Carvalho",
+    "role": "Analista Pl",
     "area": "rubens"
    },
    "pmv706hzwjd5xs": {
@@ -1896,6 +1896,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795088708603
+  "updatedAt": 1795088732668
  }
 }
