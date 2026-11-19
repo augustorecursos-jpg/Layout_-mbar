@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-19T12:25:43.836Z",
+ "publishedAt": "2026-11-19T12:34:46.039Z",
  "state": {
   "version": 2,
   "areas": {
@@ -991,7 +991,7 @@
    },
    "pmv701w9f27nty67": {
     "id": "pmv701w9f27nty67",
-    "name": "Eduardo Rosa",
+    "name": "Isabelle",
     "role": "Executivo Comercial",
     "area": "green-cargo"
    },
@@ -1909,6 +1909,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795091135275
+  "updatedAt": 1795091675095
  }
 }
