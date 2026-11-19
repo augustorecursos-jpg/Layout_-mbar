@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-19T12:23:09.862Z",
+ "publishedAt": "2026-11-19T12:23:24.333Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1225,7 +1225,7 @@
    },
    "pmvv9ooylaab5a": {
     "id": "pmvv9ooylaab5a",
-    "name": "Assistente de Suprimentos",
+    "name": "Rayanne",
     "role": "Assistente de Suprimentos",
     "area": "suprimentos"
    },
@@ -1902,6 +1902,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795090980994
+  "updatedAt": 1795091001696
  }
 }
