@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-25T12:29:52.276Z",
+ "publishedAt": "2026-11-25T12:30:37.428Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1264,6 +1264,12 @@
     "name": "Elaine Cintra",
     "role": "Gerente Administrativa",
     "area": "luiz"
+   },
+   "pmww3qb0s40z8z": {
+    "id": "pmww3qb0s40z8z",
+    "name": "Junior",
+    "role": "Coordenador de Folha",
+    "area": "rh"
    }
   },
   "assign": {
@@ -1427,7 +1433,8 @@
    "mz-c2-p7-r": "pmv70s8c5mq258",
    "mz-c5-p1-l": "pmwniwwmjjbl7c",
    "mz-c3-p6-r": "pmv701w9f4qgui33",
-   "b6-terreo-dp-b3": "pmv6z55z76zgtp2t"
+   "b6-terreo-dp-b3": "pmv6z55z76zgtp2t",
+   "b6-terreo-rh-t2": "pmww3qb0s40z8z"
   },
   "reserve": {},
   "labels": {
@@ -1909,6 +1916,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795609783686
+  "updatedAt": 1795609828684
  }
 }
