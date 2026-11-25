@@ -1,7 +1,7 @@
 {
  "app": "mapa-assentos-ambar",
  "version": 2,
- "publishedAt": "2026-11-25T12:30:37.428Z",
+ "publishedAt": "2026-11-25T12:30:53.880Z",
  "state": {
   "version": 2,
   "areas": {
@@ -1269,7 +1269,7 @@
     "id": "pmww3qb0s40z8z",
     "name": "Junior",
     "role": "Coordenador de Folha",
-    "area": "rh"
+    "area": "rubens"
    }
   },
   "assign": {
@@ -1371,7 +1371,7 @@
    "b6-terreo-rh-t0": "pmv704sdo03q61",
    "b6-terreo-dp-t0": "pmv6z55z7bxeps1t",
    "b6-terreo-dp-b1": "pmv6z55z7n33il3b",
-   "b6-terreo-dp-b0": "pmv706pye145g4",
+   "b6-terreo-dp-b0": "pmv6z55z76zgtp2t",
    "b6-terreo-rh-b2": "pmv7072b0wcptu",
    "b6-andar2a-ti-t1": "pmv7086du0s6l0",
    "mz-c4-p2-l": "pmv701w9ffxu4s55",
@@ -1433,8 +1433,8 @@
    "mz-c2-p7-r": "pmv70s8c5mq258",
    "mz-c5-p1-l": "pmwniwwmjjbl7c",
    "mz-c3-p6-r": "pmv701w9f4qgui33",
-   "b6-terreo-dp-b3": "pmv6z55z76zgtp2t",
-   "b6-terreo-rh-t2": "pmww3qb0s40z8z"
+   "b6-terreo-rh-t2": "pmww3qb0s40z8z",
+   "b6-terreo-dp-b3": "pmv706pye145g4"
   },
   "reserve": {},
   "labels": {
@@ -1916,6 +1916,6 @@
    ]
   },
   "lastBackup": 1791919813947,
-  "updatedAt": 1795609828684
+  "updatedAt": 1795609845302
  }
 }
